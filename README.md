@@ -3,7 +3,7 @@
 ## Integrantes
 
 * João Lucas Lage Gonçalves - 2020054552
-* João Victor Bicalho da Silva -
+* João Vítor Bicalho da Silva - 2020054579
 * Pedro Renato Ferreira da Silva -
 
 ## Introdução
