@@ -4,7 +4,7 @@
 
 * João Lucas Lage Gonçalves - 2020054552
 * João Vítor Bicalho da Silva - 2020054579
-* Pedro Renato Ferreira da Silva -
+* Pedro Renato Ferreira da Silva - 2020054757
 
 ## Introdução
 
@@ -24,7 +24,7 @@ Nessa etapa realizamos a coleta dos dados necessários para as análises.Foram c
 * [Dados do Censo de 2022, disponíveis no site do IBGE.](https://www.ibge.gov.br/estatisticas/sociais/populacao/22827-censo-demografico-2022.html?edicao=39499&t=resultados)
 * [Dados do IDH municipal no ano de 2010, disponíveis no site da Fundação João Pinheiro.](http://www.atlasbrasil.org.br/consulta/planilha)
 * [Dados geográficos do estado do Ceará disponíveis no site do IPEA.](https://basedosdados.org/dataset/49ace9c8-ae2d-454b-bed9-9b9492a3a642?table=830ed269-41f9-461d-96f1-6a54b2e574ac)
-* [Dados de furtos no estado do Ceará entre 2013 e 2022, disponíveis no site da SSP-CE.]()
+* [Dados de furtos no estado do Ceará entre 2013 e 2022, disponíveis no site da SSP-CE.](https://www.sspds.ce.gov.br/indicadores-de-seguranca-publica/)
 
 Os dados foram coletados em formato CSV e estão disponíveis na pasta `dados`.
 
