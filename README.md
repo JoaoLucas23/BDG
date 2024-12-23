@@ -12,7 +12,7 @@ Este trabalho tem como objetivo colocar em prática conceitos e princípios disc
 
 Nosso grupo ficou responsável por analisar os dados de votação para Deputados Federias das eleições de 2022, no estado do Ceará, e relacioná-los com dados geográficos do estado.
 
-A primeira etapa desse trabalho foi feita usando o [Github](https://github.com/JoaoLucas23/BDG) para armazenamento dos arquivos e engenharia de dados, e o [...](https://) para a construção do Banco de Dados Geográficos.
+A primeira etapa desse trabalho foi feita usando o [Github](https://github.com/JoaoLucas23/BDG) para armazenamento dos arquivos e engenharia de dados, e o [OMT-G Designer](http://aqui.io/omtg/#) para a construção do Banco de Dados Geográficos.
 
 ## Metodologia
 
