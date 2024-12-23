@@ -41,6 +41,7 @@ A engenharia de dados foi realizada no arquivo `tratamento_de_dados.ipynb`. Ness
 3. Filtragem dos dados
 4. Agregação dos dados
 5. Exploração dos dados
+6. Construção das tabelas do Banco de Dados Geográficos
 
 #### Esquema OMT-G  
 O diagrama construído pode ser melhor visualizado acessando o arquivo `OMT-G.pdf`
