@@ -1,0 +1,2698 @@
+nome_municipio,ano,total_furtos
+Abaiara,2010,3
+Abaiara,2011,4
+Abaiara,2012,6
+Abaiara,2013,9
+Abaiara,2014,8
+Abaiara,2015,18
+Abaiara,2016,7
+Abaiara,2017,5
+Abaiara,2018,9
+Abaiara,2019,6
+Abaiara,2020,13
+Abaiara,2021,6
+Abaiara,2022,5
+Abaiara,2023,19
+Acarape,2009,3
+Acarape,2010,5
+Acarape,2011,34
+Acarape,2012,11
+Acarape,2013,22
+Acarape,2014,33
+Acarape,2015,35
+Acarape,2016,37
+Acarape,2017,43
+Acarape,2018,51
+Acarape,2019,21
+Acarape,2020,12
+Acarape,2021,18
+Acarape,2022,15
+Acarape,2023,25
+Acaraú,2009,174
+Acaraú,2010,368
+Acaraú,2011,420
+Acaraú,2012,334
+Acaraú,2013,363
+Acaraú,2014,201
+Acaraú,2015,305
+Acaraú,2016,295
+Acaraú,2017,275
+Acaraú,2018,202
+Acaraú,2019,177
+Acaraú,2020,126
+Acaraú,2021,148
+Acaraú,2022,142
+Acaraú,2023,166
+Acopiara,2009,12
+Acopiara,2010,10
+Acopiara,2011,13
+Acopiara,2012,9
+Acopiara,2013,65
+Acopiara,2014,109
+Acopiara,2015,128
+Acopiara,2016,140
+Acopiara,2017,158
+Acopiara,2018,99
+Acopiara,2019,97
+Acopiara,2020,152
+Acopiara,2021,92
+Acopiara,2022,146
+Acopiara,2023,83
+Aiuaba,2011,2
+Aiuaba,2012,3
+Aiuaba,2013,3
+Aiuaba,2014,9
+Aiuaba,2015,13
+Aiuaba,2016,8
+Aiuaba,2017,16
+Aiuaba,2018,7
+Aiuaba,2019,13
+Aiuaba,2020,10
+Aiuaba,2021,6
+Aiuaba,2022,13
+Aiuaba,2023,12
+Alcântaras,2009,3
+Alcântaras,2010,2
+Alcântaras,2011,5
+Alcântaras,2012,7
+Alcântaras,2013,14
+Alcântaras,2014,10
+Alcântaras,2015,16
+Alcântaras,2016,17
+Alcântaras,2017,16
+Alcântaras,2018,16
+Alcântaras,2019,11
+Alcântaras,2020,8
+Alcântaras,2021,10
+Alcântaras,2022,8
+Alcântaras,2023,21
+Altaneira,2009,1
+Altaneira,2010,2
+Altaneira,2011,1
+Altaneira,2012,1
+Altaneira,2013,1
+Altaneira,2014,6
+Altaneira,2015,8
+Altaneira,2016,10
+Altaneira,2017,13
+Altaneira,2018,14
+Altaneira,2019,11
+Altaneira,2020,8
+Altaneira,2021,10
+Altaneira,2022,6
+Altaneira,2023,9
+Alto Santo,2009,1
+Alto Santo,2010,6
+Alto Santo,2011,3
+Alto Santo,2012,7
+Alto Santo,2013,4
+Alto Santo,2014,4
+Alto Santo,2015,8
+Alto Santo,2016,39
+Alto Santo,2017,34
+Alto Santo,2018,71
+Alto Santo,2019,46
+Alto Santo,2020,31
+Alto Santo,2021,37
+Alto Santo,2022,33
+Alto Santo,2023,41
+Amontada,2009,3
+Amontada,2010,20
+Amontada,2011,123
+Amontada,2012,145
+Amontada,2013,142
+Amontada,2014,76
+Amontada,2015,90
+Amontada,2016,77
+Amontada,2017,66
+Amontada,2018,71
+Amontada,2019,82
+Amontada,2020,43
+Amontada,2021,44
+Amontada,2022,65
+Amontada,2023,92
+Antonina do Norte,2009,4
+Antonina do Norte,2010,2
+Antonina do Norte,2011,2
+Antonina do Norte,2012,4
+Antonina do Norte,2013,8
+Antonina do Norte,2014,8
+Antonina do Norte,2015,11
+Antonina do Norte,2016,10
+Antonina do Norte,2017,5
+Antonina do Norte,2018,7
+Antonina do Norte,2019,15
+Antonina do Norte,2020,5
+Antonina do Norte,2021,5
+Antonina do Norte,2022,16
+Antonina do Norte,2023,9
+Apuiarés,2010,5
+Apuiarés,2011,18
+Apuiarés,2012,2
+Apuiarés,2013,8
+Apuiarés,2014,5
+Apuiarés,2015,15
+Apuiarés,2016,23
+Apuiarés,2017,27
+Apuiarés,2018,38
+Apuiarés,2019,26
+Apuiarés,2020,16
+Apuiarés,2021,12
+Apuiarés,2022,20
+Apuiarés,2023,25
+Aquiraz,2009,606
+Aquiraz,2010,535
+Aquiraz,2011,527
+Aquiraz,2012,622
+Aquiraz,2013,695
+Aquiraz,2014,456
+Aquiraz,2015,534
+Aquiraz,2016,616
+Aquiraz,2017,595
+Aquiraz,2018,522
+Aquiraz,2019,450
+Aquiraz,2020,332
+Aquiraz,2021,451
+Aquiraz,2022,443
+Aquiraz,2023,558
+Aracati,2009,800
+Aracati,2010,762
+Aracati,2011,654
+Aracati,2012,741
+Aracati,2013,724
+Aracati,2014,509
+Aracati,2015,587
+Aracati,2016,476
+Aracati,2017,569
+Aracati,2018,647
+Aracati,2019,604
+Aracati,2020,642
+Aracati,2021,373
+Aracati,2022,524
+Aracati,2023,800
+Aracoiaba,2009,15
+Aracoiaba,2010,23
+Aracoiaba,2011,13
+Aracoiaba,2012,81
+Aracoiaba,2013,97
+Aracoiaba,2014,58
+Aracoiaba,2015,109
+Aracoiaba,2016,102
+Aracoiaba,2017,87
+Aracoiaba,2018,88
+Aracoiaba,2019,60
+Aracoiaba,2020,41
+Aracoiaba,2021,47
+Aracoiaba,2022,41
+Aracoiaba,2023,57
+Ararendá,2009,1
+Ararendá,2010,3
+Ararendá,2011,4
+Ararendá,2012,2
+Ararendá,2013,15
+Ararendá,2014,6
+Ararendá,2015,6
+Ararendá,2016,5
+Ararendá,2017,14
+Ararendá,2018,9
+Ararendá,2019,9
+Ararendá,2020,8
+Ararendá,2021,18
+Ararendá,2022,17
+Ararendá,2023,11
+Araripe,2009,1
+Araripe,2010,2
+Araripe,2011,4
+Araripe,2012,28
+Araripe,2013,44
+Araripe,2014,29
+Araripe,2015,22
+Araripe,2016,30
+Araripe,2017,45
+Araripe,2018,36
+Araripe,2019,41
+Araripe,2020,25
+Araripe,2021,27
+Araripe,2022,34
+Araripe,2023,25
+Aratuba,2009,5
+Aratuba,2010,7
+Aratuba,2011,4
+Aratuba,2012,20
+Aratuba,2013,21
+Aratuba,2014,13
+Aratuba,2015,16
+Aratuba,2016,21
+Aratuba,2017,20
+Aratuba,2018,11
+Aratuba,2019,11
+Aratuba,2020,9
+Aratuba,2021,11
+Aratuba,2022,15
+Aratuba,2023,13
+Arneiroz,2010,1
+Arneiroz,2011,4
+Arneiroz,2012,9
+Arneiroz,2013,3
+Arneiroz,2014,5
+Arneiroz,2015,7
+Arneiroz,2016,10
+Arneiroz,2017,10
+Arneiroz,2018,5
+Arneiroz,2019,10
+Arneiroz,2020,6
+Arneiroz,2021,13
+Arneiroz,2022,21
+Arneiroz,2023,15
+Assaré,2009,3
+Assaré,2010,3
+Assaré,2011,11
+Assaré,2012,11
+Assaré,2013,43
+Assaré,2014,31
+Assaré,2015,48
+Assaré,2016,47
+Assaré,2017,54
+Assaré,2018,68
+Assaré,2019,55
+Assaré,2020,37
+Assaré,2021,31
+Assaré,2022,57
+Assaré,2023,54
+Aurora,2009,2
+Aurora,2011,3
+Aurora,2012,20
+Aurora,2013,35
+Aurora,2014,48
+Aurora,2015,50
+Aurora,2016,53
+Aurora,2017,63
+Aurora,2018,41
+Aurora,2019,54
+Aurora,2020,43
+Aurora,2021,42
+Aurora,2022,46
+Aurora,2023,70
+Baixio,2010,3
+Baixio,2011,3
+Baixio,2012,1
+Baixio,2013,11
+Baixio,2014,6
+Baixio,2015,5
+Baixio,2016,7
+Baixio,2017,10
+Baixio,2018,13
+Baixio,2019,9
+Baixio,2020,9
+Baixio,2021,13
+Baixio,2022,8
+Baixio,2023,6
+Banabuiú,2010,2
+Banabuiú,2012,14
+Banabuiú,2013,35
+Banabuiú,2014,43
+Banabuiú,2015,48
+Banabuiú,2016,38
+Banabuiú,2017,46
+Banabuiú,2018,33
+Banabuiú,2019,30
+Banabuiú,2020,22
+Banabuiú,2021,29
+Banabuiú,2022,71
+Banabuiú,2023,39
+Barbalha,2009,55
+Barbalha,2010,38
+Barbalha,2011,72
+Barbalha,2012,151
+Barbalha,2013,198
+Barbalha,2014,123
+Barbalha,2015,228
+Barbalha,2016,305
+Barbalha,2017,294
+Barbalha,2018,259
+Barbalha,2019,282
+Barbalha,2020,253
+Barbalha,2021,250
+Barbalha,2022,387
+Barbalha,2023,410
+Barreira,2010,5
+Barreira,2011,8
+Barreira,2012,3
+Barreira,2013,8
+Barreira,2014,7
+Barreira,2015,56
+Barreira,2016,44
+Barreira,2017,51
+Barreira,2018,57
+Barreira,2019,41
+Barreira,2020,23
+Barreira,2021,21
+Barreira,2022,22
+Barreira,2023,31
+Barro,2009,4
+Barro,2010,3
+Barro,2011,4
+Barro,2012,23
+Barro,2013,26
+Barro,2014,20
+Barro,2015,20
+Barro,2016,22
+Barro,2017,29
+Barro,2018,24
+Barro,2019,33
+Barro,2020,19
+Barro,2021,19
+Barro,2022,22
+Barro,2023,28
+Barroquinha,2009,1
+Barroquinha,2012,2
+Barroquinha,2013,21
+Barroquinha,2014,17
+Barroquinha,2015,26
+Barroquinha,2016,22
+Barroquinha,2017,36
+Barroquinha,2018,39
+Barroquinha,2019,23
+Barroquinha,2020,13
+Barroquinha,2021,25
+Barroquinha,2022,15
+Barroquinha,2023,30
+Baturité,2009,165
+Baturité,2010,151
+Baturité,2011,126
+Baturité,2012,196
+Baturité,2013,192
+Baturité,2014,116
+Baturité,2015,174
+Baturité,2016,162
+Baturité,2017,170
+Baturité,2018,138
+Baturité,2019,153
+Baturité,2020,168
+Baturité,2021,129
+Baturité,2022,159
+Baturité,2023,159
+Beberibe,2009,57
+Beberibe,2010,107
+Beberibe,2011,279
+Beberibe,2012,253
+Beberibe,2013,251
+Beberibe,2014,269
+Beberibe,2015,301
+Beberibe,2016,315
+Beberibe,2017,209
+Beberibe,2018,169
+Beberibe,2019,199
+Beberibe,2020,181
+Beberibe,2021,161
+Beberibe,2022,159
+Beberibe,2023,190
+Bela Cruz,2009,9
+Bela Cruz,2010,10
+Bela Cruz,2011,17
+Bela Cruz,2012,14
+Bela Cruz,2013,114
+Bela Cruz,2014,56
+Bela Cruz,2015,69
+Bela Cruz,2016,86
+Bela Cruz,2017,68
+Bela Cruz,2018,44
+Bela Cruz,2019,51
+Bela Cruz,2020,38
+Bela Cruz,2021,66
+Bela Cruz,2022,58
+Bela Cruz,2023,82
+Boa Viagem,2009,2
+Boa Viagem,2010,3
+Boa Viagem,2011,3
+Boa Viagem,2012,2
+Boa Viagem,2013,35
+Boa Viagem,2014,80
+Boa Viagem,2015,142
+Boa Viagem,2016,132
+Boa Viagem,2017,155
+Boa Viagem,2018,149
+Boa Viagem,2019,154
+Boa Viagem,2020,79
+Boa Viagem,2021,108
+Boa Viagem,2022,125
+Boa Viagem,2023,128
+Brejo Santo,2009,2
+Brejo Santo,2010,4
+Brejo Santo,2011,34
+Brejo Santo,2012,113
+Brejo Santo,2013,92
+Brejo Santo,2014,71
+Brejo Santo,2015,128
+Brejo Santo,2016,150
+Brejo Santo,2017,194
+Brejo Santo,2018,205
+Brejo Santo,2019,162
+Brejo Santo,2020,96
+Brejo Santo,2021,114
+Brejo Santo,2022,191
+Brejo Santo,2023,183
+Camocim,2009,5
+Camocim,2010,9
+Camocim,2011,14
+Camocim,2012,13
+Camocim,2013,140
+Camocim,2014,355
+Camocim,2015,331
+Camocim,2016,302
+Camocim,2017,352
+Camocim,2018,321
+Camocim,2019,318
+Camocim,2020,293
+Camocim,2021,260
+Camocim,2022,255
+Camocim,2023,202
+Campos Sales,2009,30
+Campos Sales,2010,184
+Campos Sales,2011,139
+Campos Sales,2012,117
+Campos Sales,2013,122
+Campos Sales,2014,105
+Campos Sales,2015,105
+Campos Sales,2016,84
+Campos Sales,2017,73
+Campos Sales,2018,90
+Campos Sales,2019,94
+Campos Sales,2020,87
+Campos Sales,2021,61
+Campos Sales,2022,93
+Campos Sales,2023,77
+Canindé,2009,218
+Canindé,2010,461
+Canindé,2011,434
+Canindé,2012,440
+Canindé,2013,474
+Canindé,2014,421
+Canindé,2015,336
+Canindé,2016,445
+Canindé,2017,491
+Canindé,2018,354
+Canindé,2019,306
+Canindé,2020,187
+Canindé,2021,212
+Canindé,2022,219
+Canindé,2023,253
+Capistrano,2009,2
+Capistrano,2010,2
+Capistrano,2011,7
+Capistrano,2012,16
+Capistrano,2013,6
+Capistrano,2014,6
+Capistrano,2015,13
+Capistrano,2016,28
+Capistrano,2017,45
+Capistrano,2018,23
+Capistrano,2019,22
+Capistrano,2020,13
+Capistrano,2021,20
+Capistrano,2022,31
+Capistrano,2023,23
+Caridade,2009,17
+Caridade,2010,18
+Caridade,2011,24
+Caridade,2012,24
+Caridade,2013,16
+Caridade,2014,23
+Caridade,2015,13
+Caridade,2016,15
+Caridade,2017,16
+Caridade,2018,50
+Caridade,2019,39
+Caridade,2020,18
+Caridade,2021,19
+Caridade,2022,21
+Caridade,2023,29
+Caririaçu,2009,23
+Caririaçu,2010,52
+Caririaçu,2011,54
+Caririaçu,2012,85
+Caririaçu,2013,57
+Caririaçu,2014,17
+Caririaçu,2015,42
+Caririaçu,2016,44
+Caririaçu,2017,48
+Caririaçu,2018,48
+Caririaçu,2019,59
+Caririaçu,2020,27
+Caririaçu,2021,32
+Caririaçu,2022,44
+Caririaçu,2023,51
+Cariré,2009,8
+Cariré,2010,20
+Cariré,2011,14
+Cariré,2012,14
+Cariré,2013,21
+Cariré,2014,15
+Cariré,2015,8
+Cariré,2016,12
+Cariré,2017,36
+Cariré,2018,26
+Cariré,2019,18
+Cariré,2020,16
+Cariré,2021,23
+Cariré,2022,36
+Cariré,2023,31
+Cariús,2009,16
+Cariús,2010,9
+Cariús,2011,10
+Cariús,2012,20
+Cariús,2013,23
+Cariús,2014,14
+Cariús,2015,19
+Cariús,2016,19
+Cariús,2017,10
+Cariús,2018,21
+Cariús,2019,26
+Cariús,2020,19
+Cariús,2021,21
+Cariús,2022,19
+Cariús,2023,34
+Carnaubal,2010,1
+Carnaubal,2011,2
+Carnaubal,2013,11
+Carnaubal,2014,21
+Carnaubal,2015,37
+Carnaubal,2016,23
+Carnaubal,2017,29
+Carnaubal,2018,39
+Carnaubal,2019,32
+Carnaubal,2020,13
+Carnaubal,2021,18
+Carnaubal,2022,17
+Carnaubal,2023,15
+Cascavel,2009,57
+Cascavel,2010,84
+Cascavel,2011,535
+Cascavel,2012,509
+Cascavel,2013,575
+Cascavel,2014,308
+Cascavel,2015,380
+Cascavel,2016,426
+Cascavel,2017,400
+Cascavel,2018,303
+Cascavel,2019,307
+Cascavel,2020,309
+Cascavel,2021,396
+Cascavel,2022,418
+Cascavel,2023,393
+Catarina,2010,1
+Catarina,2011,1
+Catarina,2012,6
+Catarina,2013,8
+Catarina,2014,6
+Catarina,2015,12
+Catarina,2016,14
+Catarina,2017,9
+Catarina,2018,5
+Catarina,2019,5
+Catarina,2020,5
+Catarina,2021,11
+Catarina,2022,5
+Catarina,2023,21
+Catunda,2009,1
+Catunda,2010,3
+Catunda,2011,3
+Catunda,2012,5
+Catunda,2013,6
+Catunda,2014,10
+Catunda,2015,14
+Catunda,2016,13
+Catunda,2017,8
+Catunda,2018,12
+Catunda,2019,9
+Catunda,2020,1
+Catunda,2021,1
+Catunda,2022,1
+Catunda,2023,4
+Caucaia,2009,2197
+Caucaia,2010,2012
+Caucaia,2011,1861
+Caucaia,2012,2369
+Caucaia,2013,2616
+Caucaia,2014,1665
+Caucaia,2015,2370
+Caucaia,2016,2244
+Caucaia,2017,2166
+Caucaia,2018,1997
+Caucaia,2019,2067
+Caucaia,2020,1656
+Caucaia,2021,1684
+Caucaia,2022,2067
+Caucaia,2023,1960
+Cedro,2009,19
+Cedro,2010,12
+Cedro,2011,29
+Cedro,2012,26
+Cedro,2013,79
+Cedro,2014,48
+Cedro,2015,71
+Cedro,2016,50
+Cedro,2017,61
+Cedro,2018,47
+Cedro,2019,59
+Cedro,2020,47
+Cedro,2021,35
+Cedro,2022,52
+Cedro,2023,67
+Chaval,2012,11
+Chaval,2013,49
+Chaval,2014,58
+Chaval,2015,93
+Chaval,2016,47
+Chaval,2017,62
+Chaval,2018,41
+Chaval,2019,53
+Chaval,2020,22
+Chaval,2021,35
+Chaval,2022,25
+Chaval,2023,19
+Chorozinho,2009,4
+Chorozinho,2010,7
+Chorozinho,2011,10
+Chorozinho,2012,75
+Chorozinho,2013,90
+Chorozinho,2014,56
+Chorozinho,2015,81
+Chorozinho,2016,79
+Chorozinho,2017,84
+Chorozinho,2018,65
+Chorozinho,2019,54
+Chorozinho,2020,35
+Chorozinho,2021,36
+Chorozinho,2022,49
+Chorozinho,2023,56
+Choró,2011,1
+Choró,2012,1
+Choró,2013,29
+Choró,2014,17
+Choró,2015,19
+Choró,2016,22
+Choró,2017,19
+Choró,2018,16
+Choró,2019,6
+Choró,2020,7
+Choró,2021,9
+Choró,2022,7
+Choró,2023,12
+Coreaú,2009,6
+Coreaú,2010,13
+Coreaú,2011,12
+Coreaú,2012,13
+Coreaú,2013,73
+Coreaú,2014,65
+Coreaú,2015,87
+Coreaú,2016,70
+Coreaú,2017,81
+Coreaú,2018,56
+Coreaú,2019,40
+Coreaú,2020,29
+Coreaú,2021,28
+Coreaú,2022,32
+Coreaú,2023,33
+Crateús,2009,9
+Crateús,2010,6
+Crateús,2011,10
+Crateús,2012,10
+Crateús,2013,230
+Crateús,2014,299
+Crateús,2015,404
+Crateús,2016,399
+Crateús,2017,524
+Crateús,2018,441
+Crateús,2019,492
+Crateús,2020,310
+Crateús,2021,268
+Crateús,2022,408
+Crateús,2023,454
+Crato,2009,1412
+Crato,2010,766
+Crato,2011,854
+Crato,2012,859
+Crato,2013,955
+Crato,2014,573
+Crato,2015,902
+Crato,2016,957
+Crato,2017,1240
+Crato,2018,922
+Crato,2019,1121
+Crato,2020,666
+Crato,2021,778
+Crato,2022,1213
+Crato,2023,1026
+Croatá,2009,1
+Croatá,2011,8
+Croatá,2012,5
+Croatá,2013,7
+Croatá,2014,6
+Croatá,2015,15
+Croatá,2016,12
+Croatá,2017,17
+Croatá,2018,15
+Croatá,2019,15
+Croatá,2020,14
+Croatá,2021,14
+Croatá,2022,25
+Croatá,2023,20
+Cruz,2009,8
+Cruz,2010,29
+Cruz,2011,37
+Cruz,2012,34
+Cruz,2013,46
+Cruz,2014,41
+Cruz,2015,42
+Cruz,2016,55
+Cruz,2017,47
+Cruz,2018,69
+Cruz,2019,106
+Cruz,2020,76
+Cruz,2021,83
+Cruz,2022,80
+Cruz,2023,95
+Deputado Irapuan Pinheiro,2010,2
+Deputado Irapuan Pinheiro,2012,3
+Deputado Irapuan Pinheiro,2013,2
+Deputado Irapuan Pinheiro,2014,6
+Deputado Irapuan Pinheiro,2015,8
+Deputado Irapuan Pinheiro,2016,6
+Deputado Irapuan Pinheiro,2017,7
+Deputado Irapuan Pinheiro,2018,4
+Deputado Irapuan Pinheiro,2019,9
+Deputado Irapuan Pinheiro,2020,6
+Deputado Irapuan Pinheiro,2021,5
+Deputado Irapuan Pinheiro,2022,8
+Deputado Irapuan Pinheiro,2023,5
+Ereré,2009,1
+Ereré,2010,2
+Ereré,2011,2
+Ereré,2012,4
+Ereré,2013,5
+Ereré,2014,2
+Ereré,2015,5
+Ereré,2016,13
+Ereré,2017,9
+Ereré,2018,12
+Ereré,2019,8
+Ereré,2020,8
+Ereré,2021,5
+Ereré,2022,3
+Ereré,2023,3
+Eusébio,2009,461
+Eusébio,2010,461
+Eusébio,2011,450
+Eusébio,2012,412
+Eusébio,2013,435
+Eusébio,2014,252
+Eusébio,2015,435
+Eusébio,2016,406
+Eusébio,2017,488
+Eusébio,2018,374
+Eusébio,2019,339
+Eusébio,2020,274
+Eusébio,2021,315
+Eusébio,2022,376
+Eusébio,2023,414
+Farias Brito,2009,16
+Farias Brito,2010,6
+Farias Brito,2011,4
+Farias Brito,2012,32
+Farias Brito,2013,31
+Farias Brito,2014,45
+Farias Brito,2015,49
+Farias Brito,2016,53
+Farias Brito,2017,53
+Farias Brito,2018,45
+Farias Brito,2019,38
+Farias Brito,2020,27
+Farias Brito,2021,27
+Farias Brito,2022,41
+Farias Brito,2023,51
+Forquilha,2009,12
+Forquilha,2010,8
+Forquilha,2011,23
+Forquilha,2012,14
+Forquilha,2013,28
+Forquilha,2014,18
+Forquilha,2015,24
+Forquilha,2016,31
+Forquilha,2017,34
+Forquilha,2018,54
+Forquilha,2019,51
+Forquilha,2020,34
+Forquilha,2021,48
+Forquilha,2022,78
+Forquilha,2023,72
+Fortaleza,2009,38444
+Fortaleza,2010,34905
+Fortaleza,2011,31710
+Fortaleza,2012,34511
+Fortaleza,2013,35690
+Fortaleza,2014,21577
+Fortaleza,2015,30139
+Fortaleza,2016,31768
+Fortaleza,2017,32223
+Fortaleza,2018,31826
+Fortaleza,2019,31259
+Fortaleza,2020,25159
+Fortaleza,2021,25327
+Fortaleza,2022,32476
+Fortaleza,2023,33005
+Fortim,2009,6
+Fortim,2010,2
+Fortim,2011,5
+Fortim,2012,15
+Fortim,2013,9
+Fortim,2014,16
+Fortim,2015,118
+Fortim,2016,93
+Fortim,2017,82
+Fortim,2018,47
+Fortim,2019,59
+Fortim,2020,51
+Fortim,2021,53
+Fortim,2022,67
+Fortim,2023,89
+Frecheirinha,2009,10
+Frecheirinha,2010,5
+Frecheirinha,2011,16
+Frecheirinha,2012,28
+Frecheirinha,2013,24
+Frecheirinha,2014,13
+Frecheirinha,2015,16
+Frecheirinha,2016,29
+Frecheirinha,2017,35
+Frecheirinha,2018,46
+Frecheirinha,2019,24
+Frecheirinha,2020,19
+Frecheirinha,2021,26
+Frecheirinha,2022,16
+Frecheirinha,2023,11
+General Sampaio,2009,1
+General Sampaio,2010,2
+General Sampaio,2011,8
+General Sampaio,2012,14
+General Sampaio,2013,12
+General Sampaio,2014,13
+General Sampaio,2015,9
+General Sampaio,2016,14
+General Sampaio,2017,15
+General Sampaio,2018,12
+General Sampaio,2019,17
+General Sampaio,2020,6
+General Sampaio,2021,8
+General Sampaio,2022,11
+General Sampaio,2023,3
+Granja,2009,1
+Granja,2010,4
+Granja,2011,24
+Granja,2012,162
+Granja,2013,139
+Granja,2014,129
+Granja,2015,169
+Granja,2016,152
+Granja,2017,169
+Granja,2018,159
+Granja,2019,184
+Granja,2020,123
+Granja,2021,137
+Granja,2022,199
+Granja,2023,148
+Granjeiro,2009,1
+Granjeiro,2011,2
+Granjeiro,2012,2
+Granjeiro,2013,1
+Granjeiro,2014,1
+Granjeiro,2015,6
+Granjeiro,2016,6
+Granjeiro,2017,3
+Granjeiro,2018,5
+Granjeiro,2019,5
+Granjeiro,2020,5
+Granjeiro,2021,5
+Granjeiro,2022,2
+Granjeiro,2023,4
+Graça,2011,1
+Graça,2012,2
+Graça,2013,10
+Graça,2014,14
+Graça,2015,13
+Graça,2016,28
+Graça,2017,35
+Graça,2018,37
+Graça,2019,22
+Graça,2020,24
+Graça,2021,28
+Graça,2022,31
+Graça,2023,27
+Groaíras,2009,19
+Groaíras,2010,15
+Groaíras,2011,17
+Groaíras,2012,22
+Groaíras,2013,17
+Groaíras,2014,7
+Groaíras,2015,6
+Groaíras,2016,18
+Groaíras,2017,11
+Groaíras,2018,16
+Groaíras,2019,8
+Groaíras,2020,12
+Groaíras,2021,14
+Groaíras,2022,13
+Groaíras,2023,5
+Guaiúba,2009,105
+Guaiúba,2010,106
+Guaiúba,2011,96
+Guaiúba,2012,129
+Guaiúba,2013,97
+Guaiúba,2014,62
+Guaiúba,2015,95
+Guaiúba,2016,122
+Guaiúba,2017,127
+Guaiúba,2018,103
+Guaiúba,2019,75
+Guaiúba,2020,52
+Guaiúba,2021,35
+Guaiúba,2022,47
+Guaiúba,2023,37
+Guaraciaba do Norte,2009,1
+Guaraciaba do Norte,2010,4
+Guaraciaba do Norte,2012,6
+Guaraciaba do Norte,2013,25
+Guaraciaba do Norte,2014,75
+Guaraciaba do Norte,2015,62
+Guaraciaba do Norte,2016,51
+Guaraciaba do Norte,2017,121
+Guaraciaba do Norte,2018,112
+Guaraciaba do Norte,2019,107
+Guaraciaba do Norte,2020,95
+Guaraciaba do Norte,2021,78
+Guaraciaba do Norte,2022,119
+Guaraciaba do Norte,2023,78
+Guaramiranga,2009,11
+Guaramiranga,2010,9
+Guaramiranga,2011,19
+Guaramiranga,2012,10
+Guaramiranga,2013,27
+Guaramiranga,2014,27
+Guaramiranga,2015,36
+Guaramiranga,2016,46
+Guaramiranga,2017,50
+Guaramiranga,2018,49
+Guaramiranga,2019,32
+Guaramiranga,2020,17
+Guaramiranga,2021,27
+Guaramiranga,2022,20
+Guaramiranga,2023,17
+Hidrolândia,2010,1
+Hidrolândia,2011,4
+Hidrolândia,2012,1
+Hidrolândia,2013,17
+Hidrolândia,2014,8
+Hidrolândia,2015,27
+Hidrolândia,2016,20
+Hidrolândia,2017,18
+Hidrolândia,2018,13
+Hidrolândia,2019,18
+Hidrolândia,2020,14
+Hidrolândia,2021,9
+Hidrolândia,2022,9
+Hidrolândia,2023,40
+Horizonte,2009,107
+Horizonte,2010,255
+Horizonte,2011,493
+Horizonte,2012,480
+Horizonte,2013,518
+Horizonte,2014,286
+Horizonte,2015,442
+Horizonte,2016,484
+Horizonte,2017,572
+Horizonte,2018,432
+Horizonte,2019,393
+Horizonte,2020,368
+Horizonte,2021,328
+Horizonte,2022,482
+Horizonte,2023,455
+Ibaretama,2009,3
+Ibaretama,2010,1
+Ibaretama,2011,1
+Ibaretama,2012,3
+Ibaretama,2013,9
+Ibaretama,2014,20
+Ibaretama,2015,24
+Ibaretama,2016,41
+Ibaretama,2017,24
+Ibaretama,2018,23
+Ibaretama,2019,12
+Ibaretama,2020,7
+Ibaretama,2021,16
+Ibaretama,2022,19
+Ibaretama,2023,29
+Ibiapina,2009,1
+Ibiapina,2010,3
+Ibiapina,2011,1
+Ibiapina,2012,4
+Ibiapina,2013,31
+Ibiapina,2014,30
+Ibiapina,2015,63
+Ibiapina,2016,43
+Ibiapina,2017,109
+Ibiapina,2018,119
+Ibiapina,2019,59
+Ibiapina,2020,48
+Ibiapina,2021,41
+Ibiapina,2022,67
+Ibiapina,2023,50
+Ibicuitinga,2009,5
+Ibicuitinga,2010,8
+Ibicuitinga,2011,2
+Ibicuitinga,2012,8
+Ibicuitinga,2013,19
+Ibicuitinga,2014,9
+Ibicuitinga,2015,4
+Ibicuitinga,2016,8
+Ibicuitinga,2017,12
+Ibicuitinga,2018,9
+Ibicuitinga,2019,8
+Ibicuitinga,2020,7
+Ibicuitinga,2021,8
+Ibicuitinga,2022,19
+Ibicuitinga,2023,9
+Icapuí,2009,39
+Icapuí,2010,10
+Icapuí,2011,14
+Icapuí,2012,14
+Icapuí,2013,83
+Icapuí,2014,84
+Icapuí,2015,100
+Icapuí,2016,114
+Icapuí,2017,171
+Icapuí,2018,136
+Icapuí,2019,128
+Icapuí,2020,122
+Icapuí,2021,131
+Icapuí,2022,109
+Icapuí,2023,132
+Icó,2009,180
+Icó,2010,260
+Icó,2011,267
+Icó,2012,245
+Icó,2013,287
+Icó,2014,152
+Icó,2015,230
+Icó,2016,179
+Icó,2017,273
+Icó,2018,228
+Icó,2019,268
+Icó,2020,154
+Icó,2021,147
+Icó,2022,262
+Icó,2023,255
+Iguatu,2009,916
+Iguatu,2010,669
+Iguatu,2011,785
+Iguatu,2012,767
+Iguatu,2013,617
+Iguatu,2014,438
+Iguatu,2015,462
+Iguatu,2016,458
+Iguatu,2017,540
+Iguatu,2018,530
+Iguatu,2019,556
+Iguatu,2020,373
+Iguatu,2021,434
+Iguatu,2022,578
+Iguatu,2023,654
+Independência,2009,1
+Independência,2010,1
+Independência,2011,2
+Independência,2012,2
+Independência,2013,70
+Independência,2014,56
+Independência,2015,75
+Independência,2016,60
+Independência,2017,86
+Independência,2018,62
+Independência,2019,49
+Independência,2020,58
+Independência,2021,66
+Independência,2022,83
+Independência,2023,46
+Ipaporanga,2013,4
+Ipaporanga,2014,6
+Ipaporanga,2015,10
+Ipaporanga,2016,18
+Ipaporanga,2017,19
+Ipaporanga,2018,8
+Ipaporanga,2019,9
+Ipaporanga,2020,12
+Ipaporanga,2021,11
+Ipaporanga,2022,20
+Ipaporanga,2023,28
+Ipaumirim,2009,2
+Ipaumirim,2010,5
+Ipaumirim,2011,10
+Ipaumirim,2012,4
+Ipaumirim,2013,25
+Ipaumirim,2014,16
+Ipaumirim,2015,28
+Ipaumirim,2016,32
+Ipaumirim,2017,40
+Ipaumirim,2018,51
+Ipaumirim,2019,48
+Ipaumirim,2020,15
+Ipaumirim,2021,30
+Ipaumirim,2022,41
+Ipaumirim,2023,40
+Ipu,2009,1
+Ipu,2010,3
+Ipu,2011,6
+Ipu,2012,7
+Ipu,2013,22
+Ipu,2014,84
+Ipu,2015,99
+Ipu,2016,118
+Ipu,2017,143
+Ipu,2018,95
+Ipu,2019,131
+Ipu,2020,132
+Ipu,2021,81
+Ipu,2022,170
+Ipu,2023,106
+Ipueiras,2009,1
+Ipueiras,2011,2
+Ipueiras,2012,1
+Ipueiras,2013,16
+Ipueiras,2014,40
+Ipueiras,2015,76
+Ipueiras,2016,109
+Ipueiras,2017,114
+Ipueiras,2018,109
+Ipueiras,2019,77
+Ipueiras,2020,48
+Ipueiras,2021,78
+Ipueiras,2022,92
+Ipueiras,2023,103
+Iracema,2009,9
+Iracema,2010,3
+Iracema,2011,1
+Iracema,2012,8
+Iracema,2013,18
+Iracema,2014,22
+Iracema,2015,18
+Iracema,2016,23
+Iracema,2017,41
+Iracema,2018,37
+Iracema,2019,37
+Iracema,2020,24
+Iracema,2021,29
+Iracema,2022,27
+Iracema,2023,35
+Irauçuba,2009,1
+Irauçuba,2010,3
+Irauçuba,2011,3
+Irauçuba,2012,6
+Irauçuba,2013,9
+Irauçuba,2014,14
+Irauçuba,2015,17
+Irauçuba,2016,10
+Irauçuba,2017,26
+Irauçuba,2018,31
+Irauçuba,2019,41
+Irauçuba,2020,44
+Irauçuba,2021,52
+Irauçuba,2022,46
+Irauçuba,2023,67
+Itaitinga,2009,176
+Itaitinga,2010,200
+Itaitinga,2011,158
+Itaitinga,2012,149
+Itaitinga,2013,152
+Itaitinga,2014,136
+Itaitinga,2015,146
+Itaitinga,2016,178
+Itaitinga,2017,192
+Itaitinga,2018,112
+Itaitinga,2019,138
+Itaitinga,2020,123
+Itaitinga,2021,126
+Itaitinga,2022,155
+Itaitinga,2023,226
+Itaiçaba,2009,3
+Itaiçaba,2010,10
+Itaiçaba,2011,22
+Itaiçaba,2012,7
+Itaiçaba,2013,6
+Itaiçaba,2014,16
+Itaiçaba,2015,16
+Itaiçaba,2016,23
+Itaiçaba,2017,13
+Itaiçaba,2018,5
+Itaiçaba,2019,11
+Itaiçaba,2020,10
+Itaiçaba,2021,13
+Itaiçaba,2022,8
+Itaiçaba,2023,17
+Itapajé,2009,4
+Itapajé,2010,11
+Itapajé,2011,9
+Itapajé,2012,93
+Itapajé,2013,183
+Itapajé,2014,110
+Itapajé,2015,127
+Itapajé,2016,115
+Itapajé,2017,116
+Itapajé,2018,112
+Itapajé,2019,141
+Itapajé,2020,95
+Itapajé,2021,108
+Itapajé,2022,94
+Itapajé,2023,101
+Itapipoca,2009,21
+Itapipoca,2010,489
+Itapipoca,2011,620
+Itapipoca,2012,630
+Itapipoca,2013,600
+Itapipoca,2014,257
+Itapipoca,2015,360
+Itapipoca,2016,423
+Itapipoca,2017,391
+Itapipoca,2018,384
+Itapipoca,2019,415
+Itapipoca,2020,248
+Itapipoca,2021,325
+Itapipoca,2022,351
+Itapipoca,2023,336
+Itapiúna,2009,4
+Itapiúna,2010,4
+Itapiúna,2011,7
+Itapiúna,2012,6
+Itapiúna,2013,11
+Itapiúna,2014,15
+Itapiúna,2015,26
+Itapiúna,2016,29
+Itapiúna,2017,26
+Itapiúna,2018,24
+Itapiúna,2019,15
+Itapiúna,2020,17
+Itapiúna,2021,14
+Itapiúna,2022,13
+Itapiúna,2023,24
+Itarema,2009,11
+Itarema,2010,113
+Itarema,2011,181
+Itarema,2012,155
+Itarema,2013,96
+Itarema,2014,65
+Itarema,2015,98
+Itarema,2016,140
+Itarema,2017,172
+Itarema,2018,102
+Itarema,2019,107
+Itarema,2020,92
+Itarema,2021,69
+Itarema,2022,79
+Itarema,2023,61
+Itatira,2009,7
+Itatira,2010,7
+Itatira,2011,18
+Itatira,2012,5
+Itatira,2013,25
+Itatira,2014,23
+Itatira,2015,11
+Itatira,2016,32
+Itatira,2017,27
+Itatira,2018,26
+Itatira,2019,17
+Itatira,2020,12
+Itatira,2021,11
+Itatira,2022,12
+Itatira,2023,10
+Jaguaretama,2009,12
+Jaguaretama,2010,2
+Jaguaretama,2011,3
+Jaguaretama,2012,13
+Jaguaretama,2013,9
+Jaguaretama,2014,24
+Jaguaretama,2015,21
+Jaguaretama,2016,19
+Jaguaretama,2017,33
+Jaguaretama,2018,39
+Jaguaretama,2019,29
+Jaguaretama,2020,33
+Jaguaretama,2021,40
+Jaguaretama,2022,54
+Jaguaretama,2023,40
+Jaguaribara,2009,3
+Jaguaribara,2010,7
+Jaguaribara,2011,8
+Jaguaribara,2012,5
+Jaguaribara,2013,15
+Jaguaribara,2014,13
+Jaguaribara,2015,13
+Jaguaribara,2016,20
+Jaguaribara,2017,27
+Jaguaribara,2018,18
+Jaguaribara,2019,15
+Jaguaribara,2020,8
+Jaguaribara,2021,7
+Jaguaribara,2022,11
+Jaguaribara,2023,8
+Jaguaribe,2009,32
+Jaguaribe,2010,79
+Jaguaribe,2011,103
+Jaguaribe,2012,143
+Jaguaribe,2013,118
+Jaguaribe,2014,54
+Jaguaribe,2015,56
+Jaguaribe,2016,76
+Jaguaribe,2017,114
+Jaguaribe,2018,91
+Jaguaribe,2019,98
+Jaguaribe,2020,74
+Jaguaribe,2021,67
+Jaguaribe,2022,59
+Jaguaribe,2023,119
+Jaguaruana,2009,11
+Jaguaruana,2010,8
+Jaguaruana,2011,19
+Jaguaruana,2012,5
+Jaguaruana,2013,18
+Jaguaruana,2014,66
+Jaguaruana,2015,81
+Jaguaruana,2016,107
+Jaguaruana,2017,122
+Jaguaruana,2018,112
+Jaguaruana,2019,104
+Jaguaruana,2020,75
+Jaguaruana,2021,60
+Jaguaruana,2022,75
+Jaguaruana,2023,112
+Jardim,2009,7
+Jardim,2010,16
+Jardim,2011,10
+Jardim,2012,12
+Jardim,2013,35
+Jardim,2014,28
+Jardim,2015,28
+Jardim,2016,24
+Jardim,2017,36
+Jardim,2018,34
+Jardim,2019,36
+Jardim,2020,23
+Jardim,2021,43
+Jardim,2022,35
+Jardim,2023,48
+Jati,2009,2
+Jati,2010,2
+Jati,2011,4
+Jati,2012,4
+Jati,2013,16
+Jati,2014,12
+Jati,2015,12
+Jati,2016,14
+Jati,2017,5
+Jati,2018,10
+Jati,2019,13
+Jati,2020,14
+Jati,2021,9
+Jati,2022,9
+Jati,2023,23
+Jijoca de Jericoacoara,2009,13
+Jijoca de Jericoacoara,2010,26
+Jijoca de Jericoacoara,2011,31
+Jijoca de Jericoacoara,2012,38
+Jijoca de Jericoacoara,2013,34
+Jijoca de Jericoacoara,2014,32
+Jijoca de Jericoacoara,2015,54
+Jijoca de Jericoacoara,2016,100
+Jijoca de Jericoacoara,2017,186
+Jijoca de Jericoacoara,2018,212
+Jijoca de Jericoacoara,2019,217
+Jijoca de Jericoacoara,2020,103
+Jijoca de Jericoacoara,2021,135
+Jijoca de Jericoacoara,2022,115
+Jijoca de Jericoacoara,2023,123
+Juazeiro do Norte,2009,1954
+Juazeiro do Norte,2010,1996
+Juazeiro do Norte,2011,1689
+Juazeiro do Norte,2012,1713
+Juazeiro do Norte,2013,1846
+Juazeiro do Norte,2014,1183
+Juazeiro do Norte,2015,1806
+Juazeiro do Norte,2016,1749
+Juazeiro do Norte,2017,1815
+Juazeiro do Norte,2018,1573
+Juazeiro do Norte,2019,1806
+Juazeiro do Norte,2020,1445
+Juazeiro do Norte,2021,1348
+Juazeiro do Norte,2022,1881
+Juazeiro do Norte,2023,2084
+Jucás,2009,20
+Jucás,2010,12
+Jucás,2011,7
+Jucás,2012,36
+Jucás,2013,48
+Jucás,2014,41
+Jucás,2015,47
+Jucás,2016,38
+Jucás,2017,51
+Jucás,2018,52
+Jucás,2019,39
+Jucás,2020,36
+Jucás,2021,36
+Jucás,2022,51
+Jucás,2023,35
+Lavras da Mangabeira,2009,7
+Lavras da Mangabeira,2010,35
+Lavras da Mangabeira,2011,54
+Lavras da Mangabeira,2012,57
+Lavras da Mangabeira,2013,82
+Lavras da Mangabeira,2014,40
+Lavras da Mangabeira,2015,71
+Lavras da Mangabeira,2016,77
+Lavras da Mangabeira,2017,65
+Lavras da Mangabeira,2018,68
+Lavras da Mangabeira,2019,60
+Lavras da Mangabeira,2020,55
+Lavras da Mangabeira,2021,61
+Lavras da Mangabeira,2022,103
+Lavras da Mangabeira,2023,66
+Limoeiro do Norte,2009,11
+Limoeiro do Norte,2010,10
+Limoeiro do Norte,2011,15
+Limoeiro do Norte,2012,3
+Limoeiro do Norte,2013,249
+Limoeiro do Norte,2014,221
+Limoeiro do Norte,2015,274
+Limoeiro do Norte,2016,316
+Limoeiro do Norte,2017,341
+Limoeiro do Norte,2018,276
+Limoeiro do Norte,2019,245
+Limoeiro do Norte,2020,208
+Limoeiro do Norte,2021,230
+Limoeiro do Norte,2022,272
+Limoeiro do Norte,2023,198
+Madalena,2009,7
+Madalena,2010,14
+Madalena,2011,13
+Madalena,2012,13
+Madalena,2013,19
+Madalena,2014,15
+Madalena,2015,28
+Madalena,2016,23
+Madalena,2017,25
+Madalena,2018,43
+Madalena,2019,19
+Madalena,2020,22
+Madalena,2021,18
+Madalena,2022,30
+Madalena,2023,18
+Maracanaú,2009,1930
+Maracanaú,2010,1796
+Maracanaú,2011,1314
+Maracanaú,2012,1574
+Maracanaú,2013,1792
+Maracanaú,2014,1080
+Maracanaú,2015,1468
+Maracanaú,2016,1529
+Maracanaú,2017,1798
+Maracanaú,2018,1459
+Maracanaú,2019,1537
+Maracanaú,2020,1238
+Maracanaú,2021,1217
+Maracanaú,2022,1475
+Maracanaú,2023,1733
+Maranguape,2009,498
+Maranguape,2010,498
+Maranguape,2011,448
+Maranguape,2012,560
+Maranguape,2013,641
+Maranguape,2014,388
+Maranguape,2015,486
+Maranguape,2016,428
+Maranguape,2017,529
+Maranguape,2018,392
+Maranguape,2019,416
+Maranguape,2020,311
+Maranguape,2021,360
+Maranguape,2022,337
+Maranguape,2023,422
+Marco,2009,4
+Marco,2010,5
+Marco,2011,12
+Marco,2012,17
+Marco,2013,30
+Marco,2014,19
+Marco,2015,28
+Marco,2016,26
+Marco,2017,42
+Marco,2018,26
+Marco,2019,21
+Marco,2020,25
+Marco,2021,27
+Marco,2022,26
+Marco,2023,33
+Martinópole,2009,2
+Martinópole,2010,1
+Martinópole,2011,2
+Martinópole,2012,6
+Martinópole,2013,14
+Martinópole,2014,19
+Martinópole,2015,20
+Martinópole,2016,15
+Martinópole,2017,30
+Martinópole,2018,19
+Martinópole,2019,17
+Martinópole,2020,8
+Martinópole,2021,17
+Martinópole,2022,25
+Martinópole,2023,18
+Massapê,2009,24
+Massapê,2010,43
+Massapê,2011,146
+Massapê,2012,207
+Massapê,2013,166
+Massapê,2014,106
+Massapê,2015,93
+Massapê,2016,122
+Massapê,2017,118
+Massapê,2018,107
+Massapê,2019,78
+Massapê,2020,67
+Massapê,2021,107
+Massapê,2022,87
+Massapê,2023,64
+Mauriti,2009,3
+Mauriti,2010,6
+Mauriti,2011,86
+Mauriti,2012,81
+Mauriti,2013,67
+Mauriti,2014,51
+Mauriti,2015,104
+Mauriti,2016,114
+Mauriti,2017,69
+Mauriti,2018,66
+Mauriti,2019,78
+Mauriti,2020,61
+Mauriti,2021,60
+Mauriti,2022,72
+Mauriti,2023,84
+Meruoca,2009,14
+Meruoca,2010,24
+Meruoca,2011,24
+Meruoca,2012,32
+Meruoca,2013,19
+Meruoca,2014,24
+Meruoca,2015,20
+Meruoca,2016,27
+Meruoca,2017,28
+Meruoca,2018,17
+Meruoca,2019,23
+Meruoca,2020,10
+Meruoca,2021,31
+Meruoca,2022,23
+Meruoca,2023,25
+Milagres,2009,8
+Milagres,2010,2
+Milagres,2011,54
+Milagres,2012,75
+Milagres,2013,42
+Milagres,2014,53
+Milagres,2015,84
+Milagres,2016,82
+Milagres,2017,57
+Milagres,2018,59
+Milagres,2019,28
+Milagres,2020,49
+Milagres,2021,44
+Milagres,2022,58
+Milagres,2023,53
+Milhã,2009,3
+Milhã,2010,10
+Milhã,2011,18
+Milhã,2012,16
+Milhã,2013,8
+Milhã,2014,7
+Milhã,2015,15
+Milhã,2016,19
+Milhã,2017,16
+Milhã,2018,6
+Milhã,2019,15
+Milhã,2020,12
+Milhã,2021,6
+Milhã,2022,10
+Milhã,2023,23
+Miraíma,2010,6
+Miraíma,2011,19
+Miraíma,2012,22
+Miraíma,2013,18
+Miraíma,2014,6
+Miraíma,2015,15
+Miraíma,2016,16
+Miraíma,2017,18
+Miraíma,2018,6
+Miraíma,2019,16
+Miraíma,2020,9
+Miraíma,2021,7
+Miraíma,2022,12
+Miraíma,2023,10
+Missão Velha,2009,12
+Missão Velha,2010,35
+Missão Velha,2011,50
+Missão Velha,2012,65
+Missão Velha,2013,32
+Missão Velha,2014,48
+Missão Velha,2015,85
+Missão Velha,2016,102
+Missão Velha,2017,81
+Missão Velha,2018,65
+Missão Velha,2019,78
+Missão Velha,2020,68
+Missão Velha,2021,81
+Missão Velha,2022,111
+Missão Velha,2023,87
+Mombaça,2009,4
+Mombaça,2010,3
+Mombaça,2011,3
+Mombaça,2012,6
+Mombaça,2013,5
+Mombaça,2014,95
+Mombaça,2015,108
+Mombaça,2016,101
+Mombaça,2017,98
+Mombaça,2018,108
+Mombaça,2019,87
+Mombaça,2020,61
+Mombaça,2021,56
+Mombaça,2022,70
+Mombaça,2023,100
+Monsenhor Tabosa,2009,3
+Monsenhor Tabosa,2010,3
+Monsenhor Tabosa,2011,2
+Monsenhor Tabosa,2013,5
+Monsenhor Tabosa,2014,17
+Monsenhor Tabosa,2015,21
+Monsenhor Tabosa,2016,32
+Monsenhor Tabosa,2017,37
+Monsenhor Tabosa,2018,29
+Monsenhor Tabosa,2019,59
+Monsenhor Tabosa,2020,33
+Monsenhor Tabosa,2021,12
+Monsenhor Tabosa,2022,11
+Monsenhor Tabosa,2023,20
+Morada Nova,2009,9
+Morada Nova,2010,7
+Morada Nova,2011,235
+Morada Nova,2012,174
+Morada Nova,2013,157
+Morada Nova,2014,173
+Morada Nova,2015,229
+Morada Nova,2016,201
+Morada Nova,2017,174
+Morada Nova,2018,173
+Morada Nova,2019,131
+Morada Nova,2020,118
+Morada Nova,2021,136
+Morada Nova,2022,164
+Morada Nova,2023,185
+Moraújo,2009,2
+Moraújo,2010,1
+Moraújo,2011,3
+Moraújo,2013,8
+Moraújo,2014,1
+Moraújo,2015,17
+Moraújo,2016,13
+Moraújo,2017,14
+Moraújo,2018,12
+Moraújo,2019,26
+Moraújo,2020,23
+Moraújo,2021,14
+Moraújo,2022,7
+Moraújo,2023,9
+Morrinhos,2009,2
+Morrinhos,2010,9
+Morrinhos,2011,9
+Morrinhos,2012,4
+Morrinhos,2013,16
+Morrinhos,2014,13
+Morrinhos,2015,11
+Morrinhos,2016,10
+Morrinhos,2017,9
+Morrinhos,2018,19
+Morrinhos,2019,14
+Morrinhos,2020,14
+Morrinhos,2021,12
+Morrinhos,2022,16
+Morrinhos,2023,21
+Mucambo,2009,7
+Mucambo,2010,14
+Mucambo,2011,13
+Mucambo,2012,14
+Mucambo,2013,18
+Mucambo,2014,27
+Mucambo,2015,28
+Mucambo,2016,30
+Mucambo,2017,31
+Mucambo,2018,19
+Mucambo,2019,24
+Mucambo,2020,28
+Mucambo,2021,16
+Mucambo,2022,25
+Mucambo,2023,15
+Mulungu,2009,5
+Mulungu,2010,4
+Mulungu,2011,6
+Mulungu,2012,7
+Mulungu,2013,5
+Mulungu,2014,13
+Mulungu,2015,16
+Mulungu,2016,23
+Mulungu,2017,32
+Mulungu,2018,24
+Mulungu,2019,21
+Mulungu,2020,20
+Mulungu,2021,13
+Mulungu,2022,9
+Mulungu,2023,14
+Nova Olinda,2009,17
+Nova Olinda,2010,18
+Nova Olinda,2011,12
+Nova Olinda,2012,12
+Nova Olinda,2013,12
+Nova Olinda,2014,13
+Nova Olinda,2015,22
+Nova Olinda,2016,25
+Nova Olinda,2017,26
+Nova Olinda,2018,28
+Nova Olinda,2019,19
+Nova Olinda,2020,28
+Nova Olinda,2021,15
+Nova Olinda,2022,31
+Nova Olinda,2023,40
+Nova Russas,2009,3
+Nova Russas,2011,1
+Nova Russas,2012,2
+Nova Russas,2013,166
+Nova Russas,2014,71
+Nova Russas,2015,110
+Nova Russas,2016,140
+Nova Russas,2017,130
+Nova Russas,2018,103
+Nova Russas,2019,69
+Nova Russas,2020,55
+Nova Russas,2021,44
+Nova Russas,2022,109
+Nova Russas,2023,139
+Novo Oriente,2009,1
+Novo Oriente,2010,1
+Novo Oriente,2011,2
+Novo Oriente,2012,1
+Novo Oriente,2013,25
+Novo Oriente,2014,37
+Novo Oriente,2015,51
+Novo Oriente,2016,55
+Novo Oriente,2017,78
+Novo Oriente,2018,64
+Novo Oriente,2019,65
+Novo Oriente,2020,36
+Novo Oriente,2021,33
+Novo Oriente,2022,51
+Novo Oriente,2023,85
+Ocara,2009,5
+Ocara,2010,3
+Ocara,2011,4
+Ocara,2012,10
+Ocara,2013,18
+Ocara,2014,12
+Ocara,2015,45
+Ocara,2016,68
+Ocara,2017,70
+Ocara,2018,60
+Ocara,2019,36
+Ocara,2020,26
+Ocara,2021,33
+Ocara,2022,37
+Ocara,2023,58
+Orós,2009,10
+Orós,2010,17
+Orós,2011,12
+Orós,2012,12
+Orós,2013,9
+Orós,2014,6
+Orós,2015,14
+Orós,2016,15
+Orós,2017,100
+Orós,2018,55
+Orós,2019,45
+Orós,2020,29
+Orós,2021,44
+Orós,2022,49
+Orós,2023,39
+Pacajus,2009,36
+Pacajus,2010,228
+Pacajus,2011,458
+Pacajus,2012,496
+Pacajus,2013,441
+Pacajus,2014,281
+Pacajus,2015,331
+Pacajus,2016,387
+Pacajus,2017,376
+Pacajus,2018,460
+Pacajus,2019,455
+Pacajus,2020,306
+Pacajus,2021,283
+Pacajus,2022,319
+Pacajus,2023,375
+Pacatuba,2009,243
+Pacatuba,2010,263
+Pacatuba,2011,243
+Pacatuba,2012,256
+Pacatuba,2013,275
+Pacatuba,2014,157
+Pacatuba,2015,208
+Pacatuba,2016,296
+Pacatuba,2017,285
+Pacatuba,2018,233
+Pacatuba,2019,270
+Pacatuba,2020,310
+Pacatuba,2021,257
+Pacatuba,2022,293
+Pacatuba,2023,281
+Pacoti,2009,11
+Pacoti,2010,4
+Pacoti,2011,12
+Pacoti,2012,25
+Pacoti,2013,25
+Pacoti,2014,24
+Pacoti,2015,28
+Pacoti,2016,36
+Pacoti,2017,27
+Pacoti,2018,30
+Pacoti,2019,26
+Pacoti,2020,10
+Pacoti,2021,12
+Pacoti,2022,16
+Pacoti,2023,8
+Pacujá,2009,1
+Pacujá,2010,11
+Pacujá,2011,5
+Pacujá,2012,5
+Pacujá,2013,23
+Pacujá,2014,13
+Pacujá,2015,27
+Pacujá,2016,39
+Pacujá,2017,39
+Pacujá,2018,30
+Pacujá,2019,32
+Pacujá,2020,18
+Pacujá,2021,20
+Pacujá,2022,38
+Pacujá,2023,25
+Palhano,2009,2
+Palhano,2010,2
+Palhano,2011,2
+Palhano,2012,4
+Palhano,2013,10
+Palhano,2014,1
+Palhano,2015,7
+Palhano,2016,14
+Palhano,2017,13
+Palhano,2018,11
+Palhano,2019,10
+Palhano,2020,15
+Palhano,2021,20
+Palhano,2022,18
+Palhano,2023,23
+Palmácia,2009,5
+Palmácia,2010,2
+Palmácia,2011,5
+Palmácia,2012,9
+Palmácia,2013,7
+Palmácia,2014,16
+Palmácia,2015,14
+Palmácia,2016,25
+Palmácia,2017,23
+Palmácia,2018,16
+Palmácia,2019,22
+Palmácia,2020,10
+Palmácia,2021,7
+Palmácia,2022,9
+Palmácia,2023,7
+Paracuru,2009,17
+Paracuru,2010,11
+Paracuru,2011,27
+Paracuru,2012,49
+Paracuru,2013,416
+Paracuru,2014,296
+Paracuru,2015,421
+Paracuru,2016,388
+Paracuru,2017,349
+Paracuru,2018,342
+Paracuru,2019,318
+Paracuru,2020,141
+Paracuru,2021,155
+Paracuru,2022,173
+Paracuru,2023,179
+Paraipaba,2009,3
+Paraipaba,2010,10
+Paraipaba,2011,7
+Paraipaba,2012,12
+Paraipaba,2013,100
+Paraipaba,2014,120
+Paraipaba,2015,138
+Paraipaba,2016,126
+Paraipaba,2017,128
+Paraipaba,2018,110
+Paraipaba,2019,144
+Paraipaba,2020,117
+Paraipaba,2021,100
+Paraipaba,2022,94
+Paraipaba,2023,83
+Parambu,2009,1
+Parambu,2010,27
+Parambu,2011,68
+Parambu,2012,57
+Parambu,2013,59
+Parambu,2014,49
+Parambu,2015,67
+Parambu,2016,88
+Parambu,2017,76
+Parambu,2018,77
+Parambu,2019,57
+Parambu,2020,37
+Parambu,2021,46
+Parambu,2022,101
+Parambu,2023,93
+Paramoti,2009,5
+Paramoti,2010,19
+Paramoti,2011,8
+Paramoti,2012,13
+Paramoti,2013,9
+Paramoti,2014,8
+Paramoti,2015,7
+Paramoti,2016,15
+Paramoti,2017,10
+Paramoti,2018,35
+Paramoti,2019,38
+Paramoti,2020,8
+Paramoti,2021,9
+Paramoti,2022,12
+Paramoti,2023,13
+Pedra Branca,2009,4
+Pedra Branca,2010,12
+Pedra Branca,2011,69
+Pedra Branca,2012,54
+Pedra Branca,2013,65
+Pedra Branca,2014,77
+Pedra Branca,2015,70
+Pedra Branca,2016,78
+Pedra Branca,2017,82
+Pedra Branca,2018,63
+Pedra Branca,2019,78
+Pedra Branca,2020,54
+Pedra Branca,2021,68
+Pedra Branca,2022,67
+Pedra Branca,2023,83
+Penaforte,2009,1
+Penaforte,2010,2
+Penaforte,2011,5
+Penaforte,2012,11
+Penaforte,2013,23
+Penaforte,2014,9
+Penaforte,2015,15
+Penaforte,2016,30
+Penaforte,2017,22
+Penaforte,2018,22
+Penaforte,2019,37
+Penaforte,2020,16
+Penaforte,2021,19
+Penaforte,2022,27
+Penaforte,2023,22
+Pentecoste,2009,3
+Pentecoste,2010,35
+Pentecoste,2011,149
+Pentecoste,2012,135
+Pentecoste,2013,178
+Pentecoste,2014,114
+Pentecoste,2015,145
+Pentecoste,2016,123
+Pentecoste,2017,190
+Pentecoste,2018,130
+Pentecoste,2019,156
+Pentecoste,2020,91
+Pentecoste,2021,99
+Pentecoste,2022,126
+Pentecoste,2023,103
+Pereiro,2010,3
+Pereiro,2011,13
+Pereiro,2012,7
+Pereiro,2013,5
+Pereiro,2014,11
+Pereiro,2015,21
+Pereiro,2016,17
+Pereiro,2017,20
+Pereiro,2018,18
+Pereiro,2019,12
+Pereiro,2020,10
+Pereiro,2021,10
+Pereiro,2022,13
+Pereiro,2023,18
+Pindoretama,2009,5
+Pindoretama,2010,7
+Pindoretama,2011,12
+Pindoretama,2012,83
+Pindoretama,2013,143
+Pindoretama,2014,108
+Pindoretama,2015,167
+Pindoretama,2016,140
+Pindoretama,2017,155
+Pindoretama,2018,132
+Pindoretama,2019,142
+Pindoretama,2020,98
+Pindoretama,2021,84
+Pindoretama,2022,101
+Pindoretama,2023,105
+Piquet Carneiro,2010,3
+Piquet Carneiro,2012,5
+Piquet Carneiro,2013,6
+Piquet Carneiro,2014,14
+Piquet Carneiro,2015,32
+Piquet Carneiro,2016,17
+Piquet Carneiro,2017,18
+Piquet Carneiro,2018,16
+Piquet Carneiro,2019,12
+Piquet Carneiro,2020,7
+Piquet Carneiro,2021,13
+Piquet Carneiro,2022,6
+Piquet Carneiro,2023,9
+Pires Ferreira,2012,1
+Pires Ferreira,2013,4
+Pires Ferreira,2014,5
+Pires Ferreira,2015,13
+Pires Ferreira,2016,4
+Pires Ferreira,2017,6
+Pires Ferreira,2018,14
+Pires Ferreira,2019,10
+Pires Ferreira,2020,5
+Pires Ferreira,2021,8
+Pires Ferreira,2022,21
+Pires Ferreira,2023,13
+Poranga,2009,1
+Poranga,2013,8
+Poranga,2014,7
+Poranga,2015,13
+Poranga,2016,10
+Poranga,2017,19
+Poranga,2018,10
+Poranga,2019,18
+Poranga,2020,12
+Poranga,2021,5
+Poranga,2022,7
+Poranga,2023,14
+Porteiras,2011,4
+Porteiras,2012,8
+Porteiras,2013,7
+Porteiras,2014,8
+Porteiras,2015,16
+Porteiras,2016,14
+Porteiras,2017,17
+Porteiras,2018,12
+Porteiras,2019,21
+Porteiras,2020,11
+Porteiras,2021,15
+Porteiras,2022,18
+Porteiras,2023,8
+Potengi,2009,2
+Potengi,2010,5
+Potengi,2011,5
+Potengi,2012,4
+Potengi,2013,6
+Potengi,2014,7
+Potengi,2015,11
+Potengi,2016,5
+Potengi,2017,14
+Potengi,2018,10
+Potengi,2019,18
+Potengi,2020,12
+Potengi,2021,5
+Potengi,2022,5
+Potengi,2023,21
+Potiretama,2009,2
+Potiretama,2010,2
+Potiretama,2012,2
+Potiretama,2013,3
+Potiretama,2014,3
+Potiretama,2015,3
+Potiretama,2016,6
+Potiretama,2017,2
+Potiretama,2018,8
+Potiretama,2019,6
+Potiretama,2020,6
+Potiretama,2021,9
+Potiretama,2022,10
+Potiretama,2023,5
+Quiterianópolis,2010,1
+Quiterianópolis,2011,5
+Quiterianópolis,2012,3
+Quiterianópolis,2013,9
+Quiterianópolis,2014,9
+Quiterianópolis,2015,17
+Quiterianópolis,2016,38
+Quiterianópolis,2017,26
+Quiterianópolis,2018,50
+Quiterianópolis,2019,45
+Quiterianópolis,2020,24
+Quiterianópolis,2021,42
+Quiterianópolis,2022,41
+Quiterianópolis,2023,46
+Quixadá,2009,14
+Quixadá,2010,14
+Quixadá,2011,16
+Quixadá,2012,13
+Quixadá,2013,445
+Quixadá,2014,282
+Quixadá,2015,370
+Quixadá,2016,398
+Quixadá,2017,470
+Quixadá,2018,363
+Quixadá,2019,347
+Quixadá,2020,314
+Quixadá,2021,346
+Quixadá,2022,434
+Quixadá,2023,392
+Quixelô,2009,15
+Quixelô,2010,12
+Quixelô,2011,12
+Quixelô,2012,12
+Quixelô,2013,15
+Quixelô,2014,10
+Quixelô,2015,21
+Quixelô,2016,29
+Quixelô,2017,19
+Quixelô,2018,27
+Quixelô,2019,28
+Quixelô,2020,12
+Quixelô,2021,21
+Quixelô,2022,26
+Quixelô,2023,23
+Quixeramobim,2009,6
+Quixeramobim,2010,7
+Quixeramobim,2011,12
+Quixeramobim,2012,4
+Quixeramobim,2013,167
+Quixeramobim,2014,228
+Quixeramobim,2015,366
+Quixeramobim,2016,283
+Quixeramobim,2017,273
+Quixeramobim,2018,301
+Quixeramobim,2019,351
+Quixeramobim,2020,323
+Quixeramobim,2021,316
+Quixeramobim,2022,352
+Quixeramobim,2023,427
+Quixeré,2009,19
+Quixeré,2010,12
+Quixeré,2011,14
+Quixeré,2012,26
+Quixeré,2013,24
+Quixeré,2014,32
+Quixeré,2015,49
+Quixeré,2016,33
+Quixeré,2017,34
+Quixeré,2018,42
+Quixeré,2019,42
+Quixeré,2020,13
+Quixeré,2021,25
+Quixeré,2022,38
+Quixeré,2023,42
+Redenção,2009,14
+Redenção,2010,23
+Redenção,2011,92
+Redenção,2012,95
+Redenção,2013,98
+Redenção,2014,75
+Redenção,2015,71
+Redenção,2016,57
+Redenção,2017,139
+Redenção,2018,81
+Redenção,2019,87
+Redenção,2020,40
+Redenção,2021,48
+Redenção,2022,30
+Redenção,2023,61
+Reriutaba,2009,7
+Reriutaba,2010,10
+Reriutaba,2011,3
+Reriutaba,2012,10
+Reriutaba,2013,19
+Reriutaba,2014,16
+Reriutaba,2015,25
+Reriutaba,2016,30
+Reriutaba,2017,37
+Reriutaba,2018,38
+Reriutaba,2019,54
+Reriutaba,2020,32
+Reriutaba,2021,23
+Reriutaba,2022,29
+Reriutaba,2023,41
+Russas,2009,435
+Russas,2010,413
+Russas,2011,450
+Russas,2012,333
+Russas,2013,471
+Russas,2014,234
+Russas,2015,351
+Russas,2016,336
+Russas,2017,402
+Russas,2018,387
+Russas,2019,318
+Russas,2020,247
+Russas,2021,288
+Russas,2022,350
+Russas,2023,434
+Saboeiro,2009,4
+Saboeiro,2010,8
+Saboeiro,2011,4
+Saboeiro,2012,31
+Saboeiro,2013,37
+Saboeiro,2014,26
+Saboeiro,2015,30
+Saboeiro,2016,40
+Saboeiro,2017,44
+Saboeiro,2018,19
+Saboeiro,2019,21
+Saboeiro,2020,11
+Saboeiro,2021,9
+Saboeiro,2022,26
+Saboeiro,2023,17
+Salitre,2009,3
+Salitre,2010,7
+Salitre,2011,2
+Salitre,2012,6
+Salitre,2013,12
+Salitre,2014,14
+Salitre,2015,13
+Salitre,2016,14
+Salitre,2017,16
+Salitre,2018,15
+Salitre,2019,21
+Salitre,2020,10
+Salitre,2021,5
+Salitre,2022,9
+Salitre,2023,21
+Santa Quitéria,2009,2
+Santa Quitéria,2010,4
+Santa Quitéria,2011,5
+Santa Quitéria,2012,2
+Santa Quitéria,2013,64
+Santa Quitéria,2014,109
+Santa Quitéria,2015,145
+Santa Quitéria,2016,109
+Santa Quitéria,2017,114
+Santa Quitéria,2018,97
+Santa Quitéria,2019,83
+Santa Quitéria,2020,67
+Santa Quitéria,2021,70
+Santa Quitéria,2022,57
+Santa Quitéria,2023,83
+Santana do Acaraú,2009,6
+Santana do Acaraú,2010,17
+Santana do Acaraú,2011,72
+Santana do Acaraú,2012,98
+Santana do Acaraú,2013,97
+Santana do Acaraú,2014,74
+Santana do Acaraú,2015,99
+Santana do Acaraú,2016,125
+Santana do Acaraú,2017,94
+Santana do Acaraú,2018,77
+Santana do Acaraú,2019,46
+Santana do Acaraú,2020,20
+Santana do Acaraú,2021,30
+Santana do Acaraú,2022,57
+Santana do Acaraú,2023,49
+Santana do Cariri,2009,7
+Santana do Cariri,2010,4
+Santana do Cariri,2011,7
+Santana do Cariri,2012,7
+Santana do Cariri,2013,7
+Santana do Cariri,2014,14
+Santana do Cariri,2015,14
+Santana do Cariri,2016,21
+Santana do Cariri,2017,24
+Santana do Cariri,2018,17
+Santana do Cariri,2019,22
+Santana do Cariri,2020,17
+Santana do Cariri,2021,11
+Santana do Cariri,2022,14
+Santana do Cariri,2023,14
+Senador Pompeu,2009,22
+Senador Pompeu,2010,149
+Senador Pompeu,2011,207
+Senador Pompeu,2012,206
+Senador Pompeu,2013,110
+Senador Pompeu,2014,86
+Senador Pompeu,2015,93
+Senador Pompeu,2016,87
+Senador Pompeu,2017,62
+Senador Pompeu,2018,24
+Senador Pompeu,2019,51
+Senador Pompeu,2020,47
+Senador Pompeu,2021,52
+Senador Pompeu,2022,44
+Senador Pompeu,2023,63
+Senador Sá,2011,4
+Senador Sá,2012,10
+Senador Sá,2013,7
+Senador Sá,2014,5
+Senador Sá,2015,6
+Senador Sá,2016,6
+Senador Sá,2017,13
+Senador Sá,2018,6
+Senador Sá,2019,9
+Senador Sá,2020,5
+Senador Sá,2021,7
+Senador Sá,2022,15
+Senador Sá,2023,2
+Sobral,2009,1680
+Sobral,2010,1811
+Sobral,2011,1724
+Sobral,2012,1653
+Sobral,2013,1348
+Sobral,2014,748
+Sobral,2015,966
+Sobral,2016,1046
+Sobral,2017,1219
+Sobral,2018,1192
+Sobral,2019,1285
+Sobral,2020,1061
+Sobral,2021,982
+Sobral,2022,1157
+Sobral,2023,1603
+Solonópole,2010,9
+Solonópole,2011,13
+Solonópole,2012,19
+Solonópole,2013,24
+Solonópole,2014,36
+Solonópole,2015,46
+Solonópole,2016,50
+Solonópole,2017,61
+Solonópole,2018,58
+Solonópole,2019,44
+Solonópole,2020,35
+Solonópole,2021,21
+Solonópole,2022,59
+Solonópole,2023,44
+São Benedito,2009,3
+São Benedito,2010,6
+São Benedito,2011,11
+São Benedito,2012,7
+São Benedito,2013,101
+São Benedito,2014,160
+São Benedito,2015,220
+São Benedito,2016,199
+São Benedito,2017,247
+São Benedito,2018,249
+São Benedito,2019,173
+São Benedito,2020,125
+São Benedito,2021,117
+São Benedito,2022,143
+São Benedito,2023,126
+São Gonçalo do Amarante,2009,436
+São Gonçalo do Amarante,2010,473
+São Gonçalo do Amarante,2011,627
+São Gonçalo do Amarante,2012,544
+São Gonçalo do Amarante,2013,478
+São Gonçalo do Amarante,2014,314
+São Gonçalo do Amarante,2015,473
+São Gonçalo do Amarante,2016,419
+São Gonçalo do Amarante,2017,386
+São Gonçalo do Amarante,2018,342
+São Gonçalo do Amarante,2019,348
+São Gonçalo do Amarante,2020,291
+São Gonçalo do Amarante,2021,261
+São Gonçalo do Amarante,2022,312
+São Gonçalo do Amarante,2023,259
+São João do Jaguaribe,2014,2
+São João do Jaguaribe,2015,5
+São João do Jaguaribe,2016,10
+São João do Jaguaribe,2017,7
+São João do Jaguaribe,2018,4
+São João do Jaguaribe,2019,12
+São João do Jaguaribe,2020,18
+São João do Jaguaribe,2021,57
+São João do Jaguaribe,2022,19
+São João do Jaguaribe,2023,4
+São Luís do Curu,2009,3
+São Luís do Curu,2010,10
+São Luís do Curu,2011,2
+São Luís do Curu,2012,3
+São Luís do Curu,2013,8
+São Luís do Curu,2014,5
+São Luís do Curu,2015,12
+São Luís do Curu,2016,16
+São Luís do Curu,2017,29
+São Luís do Curu,2018,34
+São Luís do Curu,2019,23
+São Luís do Curu,2020,23
+São Luís do Curu,2021,38
+São Luís do Curu,2022,31
+São Luís do Curu,2023,46
+Tabuleiro do Norte,2009,5
+Tabuleiro do Norte,2012,3
+Tabuleiro do Norte,2013,39
+Tabuleiro do Norte,2014,97
+Tabuleiro do Norte,2015,89
+Tabuleiro do Norte,2016,90
+Tabuleiro do Norte,2017,106
+Tabuleiro do Norte,2018,66
+Tabuleiro do Norte,2019,77
+Tabuleiro do Norte,2020,79
+Tabuleiro do Norte,2021,90
+Tabuleiro do Norte,2022,97
+Tabuleiro do Norte,2023,63
+Tamboril,2009,1
+Tamboril,2011,9
+Tamboril,2012,4
+Tamboril,2013,22
+Tamboril,2014,42
+Tamboril,2015,52
+Tamboril,2016,64
+Tamboril,2017,61
+Tamboril,2018,67
+Tamboril,2019,52
+Tamboril,2020,46
+Tamboril,2021,32
+Tamboril,2022,73
+Tamboril,2023,47
+Tarrafas,2009,1
+Tarrafas,2010,2
+Tarrafas,2011,2
+Tarrafas,2013,4
+Tarrafas,2014,6
+Tarrafas,2015,5
+Tarrafas,2016,2
+Tarrafas,2017,5
+Tarrafas,2018,7
+Tarrafas,2019,6
+Tarrafas,2020,4
+Tarrafas,2021,6
+Tarrafas,2022,4
+Tarrafas,2023,8
+Tauá,2009,9
+Tauá,2010,9
+Tauá,2011,344
+Tauá,2012,309
+Tauá,2013,326
+Tauá,2014,194
+Tauá,2015,237
+Tauá,2016,217
+Tauá,2017,261
+Tauá,2018,220
+Tauá,2019,265
+Tauá,2020,248
+Tauá,2021,238
+Tauá,2022,233
+Tauá,2023,285
+Tejuçuoca,2009,1
+Tejuçuoca,2010,2
+Tejuçuoca,2011,8
+Tejuçuoca,2012,12
+Tejuçuoca,2013,7
+Tejuçuoca,2014,5
+Tejuçuoca,2015,8
+Tejuçuoca,2016,13
+Tejuçuoca,2017,10
+Tejuçuoca,2018,12
+Tejuçuoca,2019,7
+Tejuçuoca,2020,13
+Tejuçuoca,2021,18
+Tejuçuoca,2022,13
+Tejuçuoca,2023,19
+Tianguá,2009,9
+Tianguá,2010,8
+Tianguá,2011,9
+Tianguá,2012,296
+Tianguá,2013,390
+Tianguá,2014,215
+Tianguá,2015,318
+Tianguá,2016,291
+Tianguá,2017,521
+Tianguá,2018,446
+Tianguá,2019,433
+Tianguá,2020,344
+Tianguá,2021,327
+Tianguá,2022,440
+Tianguá,2023,345
+Trairi,2009,11
+Trairi,2010,194
+Trairi,2011,233
+Trairi,2012,264
+Trairi,2013,322
+Trairi,2014,141
+Trairi,2015,184
+Trairi,2016,195
+Trairi,2017,159
+Trairi,2018,127
+Trairi,2019,137
+Trairi,2020,111
+Trairi,2021,123
+Trairi,2022,184
+Trairi,2023,164
+Tururu,2010,5
+Tururu,2011,7
+Tururu,2012,3
+Tururu,2013,12
+Tururu,2014,5
+Tururu,2015,8
+Tururu,2016,9
+Tururu,2017,11
+Tururu,2018,13
+Tururu,2019,17
+Tururu,2020,15
+Tururu,2021,18
+Tururu,2022,19
+Tururu,2023,22
+Ubajara,2009,5
+Ubajara,2010,3
+Ubajara,2011,4
+Ubajara,2012,96
+Ubajara,2013,172
+Ubajara,2014,110
+Ubajara,2015,162
+Ubajara,2016,105
+Ubajara,2017,176
+Ubajara,2018,153
+Ubajara,2019,138
+Ubajara,2020,58
+Ubajara,2021,68
+Ubajara,2022,124
+Ubajara,2023,79
+Umari,2009,3
+Umari,2010,4
+Umari,2011,4
+Umari,2012,5
+Umari,2013,3
+Umari,2014,5
+Umari,2015,1
+Umari,2016,6
+Umari,2017,7
+Umari,2018,11
+Umari,2019,5
+Umari,2020,9
+Umari,2021,9
+Umari,2022,12
+Umari,2023,10
+Umirim,2009,1
+Umirim,2010,5
+Umirim,2011,3
+Umirim,2012,6
+Umirim,2013,16
+Umirim,2014,13
+Umirim,2015,14
+Umirim,2016,38
+Umirim,2017,38
+Umirim,2018,49
+Umirim,2019,43
+Umirim,2020,22
+Umirim,2021,40
+Umirim,2022,41
+Umirim,2023,30
+Uruburetama,2009,2
+Uruburetama,2010,3
+Uruburetama,2011,7
+Uruburetama,2012,37
+Uruburetama,2013,47
+Uruburetama,2014,42
+Uruburetama,2015,61
+Uruburetama,2016,60
+Uruburetama,2017,66
+Uruburetama,2018,54
+Uruburetama,2019,53
+Uruburetama,2020,23
+Uruburetama,2021,32
+Uruburetama,2022,31
+Uruburetama,2023,21
+Uruoca,2009,3
+Uruoca,2010,1
+Uruoca,2011,3
+Uruoca,2012,5
+Uruoca,2013,16
+Uruoca,2014,22
+Uruoca,2015,17
+Uruoca,2016,25
+Uruoca,2017,57
+Uruoca,2018,36
+Uruoca,2019,35
+Uruoca,2020,36
+Uruoca,2021,23
+Uruoca,2022,43
+Uruoca,2023,34
+Varjota,2009,8
+Varjota,2010,16
+Varjota,2011,16
+Varjota,2012,14
+Varjota,2013,47
+Varjota,2014,35
+Varjota,2015,63
+Varjota,2016,53
+Varjota,2017,48
+Varjota,2018,55
+Varjota,2019,46
+Varjota,2020,29
+Varjota,2021,25
+Varjota,2022,32
+Varjota,2023,40
+Viçosa do Ceará,2009,2
+Viçosa do Ceará,2010,1
+Viçosa do Ceará,2011,3
+Viçosa do Ceará,2012,9
+Viçosa do Ceará,2013,127
+Viçosa do Ceará,2014,48
+Viçosa do Ceará,2015,107
+Viçosa do Ceará,2016,164
+Viçosa do Ceará,2017,190
+Viçosa do Ceará,2018,193
+Viçosa do Ceará,2019,150
+Viçosa do Ceará,2020,108
+Viçosa do Ceará,2021,104
+Viçosa do Ceará,2022,128
+Viçosa do Ceará,2023,123
+Várzea Alegre,2009,11
+Várzea Alegre,2010,26
+Várzea Alegre,2011,18
+Várzea Alegre,2012,51
+Várzea Alegre,2013,129
+Várzea Alegre,2014,106
+Várzea Alegre,2015,121
+Várzea Alegre,2016,102
+Várzea Alegre,2017,154
+Várzea Alegre,2018,130
+Várzea Alegre,2019,118
+Várzea Alegre,2020,91
+Várzea Alegre,2021,97
+Várzea Alegre,2022,139
+Várzea Alegre,2023,110
