@@ -42,7 +42,9 @@ A engenharia de dados foi realizada no arquivo `tratamento_de_dados.ipynb`. Ness
 4. Agregação dos dados
 5. Exploração dos dados
 
-#### Banco de Dados Geográficos
+#### Esquema OMT-G 
+![OMT-G_page-0001](https://github.com/user-attachments/assets/4e6d0b92-be07-4c12-b5ab-9e4092503401)
+
 
 ### 3. Análises
 
