@@ -45,7 +45,7 @@ A engenharia de dados foi realizada no arquivo `tratamento_de_dados.ipynb`. Ness
 #### Esquema OMT-G  
 O diagrama construído pode ser melhor visualizado acessando o arquivo `OMT-G.pdf`
 
-![OMT-G_page-0001](https://github.com/user-attachments/assets/4e6d0b92-be07-4c12-b5ab-9e4092503401)
+![OMT-G v2_page-0001](https://github.com/user-attachments/assets/6896f85e-1e8d-4fc7-a497-8d9e46aa8696)
 
 ### 3. Análises
 
