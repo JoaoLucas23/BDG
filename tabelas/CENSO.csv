@@ -1,4 +1,4 @@
-codigo_regiao,nome_regiao,id_uf,nome_uf,CD_MUN,nome_municipio,total_setores,total_pessoas,total_domicilios,total_domicilios_particulares,total_domicilios_coletivos,media_moradores_domicilio_particular_ocupado,percentual_domicilios_particulares_ocupados,total_domicilios_particulares_ocupados
+id_regiao,nome_regiao,id_uf,nome_uf,id_municipio,nome_municipio,total_setores,total_pessoas,total_domicilios,total_domicilios_particulares,total_domicilios_coletivos,media_moradores_domicilio_particular_ocupado,percentual_domicilios_particulares_ocupados,total_domicilios_particulares_ocupados
 2,Nordeste,23,Ceará,2300101,Abaiara,45,10038,4358,4358,0,"2,868","0,742857143",3500
 2,Nordeste,23,Ceará,2300150,Acarape,42,14027,5447,5446,1,"3,158783784","0,608108108",4440
 2,Nordeste,23,Ceará,2300200,Acaraú,151,65264,26163,26129,34,"3,108055291","0,471877979",20980
