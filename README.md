@@ -73,26 +73,61 @@ No caso do candidato André, há uma grande parcela de votos na cidade de maior 
 
 ### 4. Visualização
 
-A parte de visualização foi feita usando o programa QGIS. Para isso, foi necessário importar os arquivos `.csv` na pasta `tabela` para o banco de dados PostgreSQL e, em seguida, conectar o banco de dados ao QGIS.
+A parte de visualização foi realizada utilizando o software QGIS, que permitiu transformar os dados tratados em representações geográficas e analíticas. Para isso, foi necessário importar os arquivos `.csv` na pasta `tabela` para o banco de dados PostgreSQL, o que viabilizou a organização e manipulação dos dados. Em seguida, o QGIS foi conectado ao banco de dados para facilitar o uso de camadas geográficas e temáticas.
 
-Os arquivos na pasta `camadas` os dados processados em camadas para serem utilizados para visualização no programa. ALém disso os arquivos `.qgz` contém os projeto do QGIS com as camadas já carregadas.
+Os arquivos na pasta `camadas` contêm os dados processados em formato compatível para serem usados como camadas no QGIS. Esses dados foram organizados de forma a permitir a visualização de indicadores e comparações relevantes. Além disso, os arquivos `.qgz` contêm projetos do QGIS com todas as camadas já carregadas e configuradas, permitindo replicar ou ajustar as análises com facilidade.
+
+#### a. Propósito da Visualização
+
+As visualizações foram desenvolvidas para explorar as relações entre os indicadores socioeconômicos, como IDH e população, e os dados eleitorais e de segurança pública. A intenção foi identificar padrões geográficos que pudessem apoiar estudos políticos e sociais, além de compreender a distribuição de variáveis como votos por partido e quantidade de furtos nos municípios.
+
+#### b. Escolha do Plano de Fundo
+
+Foi utilizado um mapa base padrão com a delimitação dos municípios, com ênfase nos limites municipais do estado do Ceará. A escolha garantiu que as camadas de dados, como IDH, população, furtos e votação, pudessem ser facilmente identificadas e interpretadas.
+
+#### c. Escolha de Parâmetros Gráficos/Visuais
+
+* Paleta de Cores: Tons contrastantes foram usados para representar diferentes categorias, como partidos políticos (cores ligadas ao partido) ou indicadores sociais, garantindo distinção visual clara.
+* Tamanhos e Formatos de Símbolos: Dados quantitativos, como população e quantidade de furtos, foram representados por círculos proporcionais ao valor. Dados categóricos, como partidos vencedores, foram exibidos por preenchimento colorido das áreas municipais.
+* Legendas e Rotulação: Cada visualização foi acompanhada de legendas e rótulos claros, permitindo fácil interpretação das informações exibidas.
+
+#### d. Processo de Produção
+
+* Software Utilizado: O QGIS foi a ferramenta principal, dada sua robustez para lidar com dados geográficos e a facilidade de integração com o banco de dados PostgreSQL.
+* Etapas do Processo:
+  * Os dados tratados na etapa de engenharia foram organizados em tabelas e importados para o banco PostgreSQL.
+  * Os arquivos da pasta tabela foram utilizados para criar camadas temáticas no QGIS.
+  * As camadas foram configuradas para representar indicadores específicos, como população, IDH e votação por candidatos e partidos.
+  * Projetos no formato .qgz foram criados, com todas as configurações de simbologia e camadas salvas para futura replicação ou ajustes.
 
 #### 4.1 Dados Gerais
 
-![image](visualizacao/populacao_idh.png)
+| ![image1](visualizacao/populacao_idh.png "Visualização da relação entre tamanho da população e IDH dos municípios do Ceará")| ![image2](visualizacao/furtos_idh.png "Visualização da relação entre quantidade de furtos e IDH dos municípios do Ceará") |
+|--------------------------------|--------------------------------|
+| Visualização da relação entre tamanho da população e IDH dos municípios do Ceará.                  | Visualização da relação entre quantidade de furtos e IDH dos municípios do Ceará.                  |
 
-![image](visualizacao/furtos_idh.png)
+As visualizações acima mostram padrões importantes: municípios com maior população aparentam ter um IDH mais alto, indicando uma correlação positiva entre esses fatores. Por outro lado, a relação entre a quantidade de furtos e o IDH não apresenta uma correlação clara. Diferente do que poderia ser esperado, municípios com menor IDH não necessariamente apresentam maior taxa de furtos.
 
 #### 4.2 Dados de Votação - Candidatos
 
-![image](visualizacao/jeziel.png)
+![image3](visualizacao/candidato%20vencedor.png)
 
-![image](visualizacao/DENIS.png)
+Comparação de municípios com mais votos entre os candidatos Jeziel (eleito com menor número de votos) e Denis (não eleito com maior número de votos).
+
+| ![image4](visualizacao/jeziel.png) | ![image5](visualizacao/DENIS.png) |
+|--------------------------------|--------------------------------|
+| Quantidade de votos por município do candidato Jeziel...                  |      Quantidade de votos por município do candidato Denis            |
+
+As visualizações acima revelam diferenças marcantes entre as estratégias e resultados dos dois candidatos. Jeziel, que foi eleito com o menor número de votos, concentrou sua votação em municípios de maior população, com uma distribuição mais pulverizada em relação à quantidade de municípios. Já Denis, que não foi eleito apesar de possuir maior número total de votos, teve uma votação concentrada em poucos municípios, predominantemente de menor população.
 
 #### 4.3 Dados de Votação - Partidos
 
 ![image](visualizacao/votos_partido.png)
 
-![image](visualizacao/partidos_populacao.png)
+Partido vencedor por município.
 
-![image](visualizacao/partidos_idh.png)
+| ![image](visualizacao/partidos_populacao.png) | ![image](visualizacao/partidos_idh.png) |
+|--------------------------------|--------------------------------|
+| Comparação entre partido vencedor e população do município.                  |      Comparação entre partido vencedor e IDH do município.           |
+
+As visualizações destacam a predominância do Partido Liberal (PL) em municípios de população média a grande, garantindo o maior número de votos totais. O Partido Democrático Trabalhista (PDT), por sua vez, obteve vitórias em municípios com grande população, assegurando a segunda posição no número total de votos. No entanto, ao analisar a relação entre o partido vencedor e o IDH dos municípios, não se observa uma correlação clara, indicando que outros fatores podem influenciar os resultados eleitorais.
