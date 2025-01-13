@@ -58,7 +58,7 @@ Considerando as variáveis `total de votos` e `idh` por cidade, obtivemos os seg
 -  Candidato Andre - Coeficiente de Correlação de Pearson: 0.40341885945941275
 - Candidato José - Coeficiente de Correlação de Pearson: 0.30443282422165246
 
-Os coeficientes obtidos indicam inicilamente que não há uma correlação entre as variáveis de idh e total de votos em cada cidade.  No entanto, também foram obtidos p-values acima de 0.5, ou seja, tais coeficientes não são estatisticamente significativos.
+Os coeficientes obtidos indicam inicilamente que não há uma correlação entre as variáveis de idh e total de votos em cada cidade.  No entanto, também foram obtidos p-values extremamente próximos de sero, ou seja, tais coeficientes não são estatisticamente significativos.
 
 
 Observando os gráficos de dispersão, podemos extrair algumas outras informações interessantes:
