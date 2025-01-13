@@ -50,6 +50,22 @@ O diagrama construído pode ser melhor visualizado acessando o arquivo `OMT-G.pd
 
 ### 3. Análises
 
+### Autocorrelação espacial
+
+Para essa análise foram selecionados dois candidados, Jaziel Pereira de Sousa, do PT, eleito com o menor número de votos, e Denis Anderson da Rocha Bezerra do PSD, o candidato não eleito que obteve o maior número de votos. Para encontrar a autocorrelação foram obtidos os valores do Índice de Moran e p-value.
+- Candidato Jaziel - I de Moran: 0.12; p-value: 0.001
+- Candidato Denis - I de Moran: 0.07; p-value: 0.072
+
+Dessa forma, para o candidato Jaziel, os dados mostram um padrão de agrupamento espacial fraco, mas significativo. Há uma leve tendência de áreas próximas compartilharem valores semelhantes, e isso pode ser explicado por fatores espaciais subjacentes. Já para o candidato Denis, Não há evidências robustas de autocorrelação espacial significativa. O padrão identificado é muito fraco e provavelmente aleatório.
+
+### Autocorrelação espacial em nível agregado
+
+Essa análise manteve os mesmos candidatos, porém, os votos foram agregados por microregião, diferente da anterior, que foi por cidade. Da mesma forma que na primeira análise, foram calculados os valores do Índice de Moran e p-value.
+- Candidato Jaziel - I de Moran: 0.19; p-value: 0.001
+- Candidato Denis - I de Moran: 0.12; p-value: 0.001
+
+Dessa forma, para ambos os candidatos, há um padrão de agrupamento espacial moderado e significativo. Regiões próximas tendem a apresentar valores semelhantes, sugerindo uma relação espacial importante entre os dados. 
+
 #### Correlação com dados socioeconômicos
 
 Para essa análise selecionamos um candidato a deputado federal pelo partido PL, André Fernandes, e outro do PT, José Nobre Guimarães. Ambos representam espectros políticos opostos e tiveram votações expressivas.
@@ -70,6 +86,29 @@ Nota-se que o candidato José possui uma quantidade de votos maior em cidades co
 ![image](https://github.com/user-attachments/assets/22b5c449-351e-4d45-ba43-e7a07a22f599)
 
 No caso do candidato André, há uma grande parcela de votos na cidade de maior IDH, Fortaleza.
+
+### Autocorrelação espacial por partido
+
+Para essa análise selecionamos os quatro partidos que obtiveram o maior número de votos, sendo eles:
+- PL - Partido Liberal
+- UNIÃO - União Brasil
+- PDT - Partido Democrático dos Trabalhadores
+- PT - Partido dos Trabalhadores
+
+Assim como nas duas primeira análise, foram calculados os valores do Índice de Moran e p-value.
+- PL - Partido Liberal: I de Moran: 0.12; p-value: 0.001
+- UNIÃO - União Brasil: I de Moran: 0.17; p-value: 0.001
+- PDT - Partido Democrático dos Trabalhadores: I de Moran: 0.06; p-value: 0.033
+- PT - Partido dos Trabalhadores: I de Moran: 0.03; p-value: 0.06
+
+ - Partido Liberal: há uma leve tendência de agrupamento espacial significativo entre áreas com valores semelhantes.
+ - União Brasil: apresenta uma tendência moderada e significativa de agrupamento espacial, mais forte do que o Partido Liberal.
+ - Partido Democrático dos Trabalhadores: Há uma leve tendência de agrupamento espacial significativo, mas o padrão é extremamente fraco.
+ - Partido dos Trabalhadores: Não há evidências significativas de autocorrelação espacial. O padrão observado é muito fraco e não confiável.
+
+### Correlação com dados da fonte adicional
+
+### Análise extra
 
 ### 4. Visualização
 
