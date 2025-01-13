@@ -97,13 +97,13 @@ Para essa análise selecionamos os quatro partidos que obtiveram o maior número
 
 Assim como nas duas primeira análise, foram calculados os valores do Índice de Moran e p-value.
 - PL - Partido Liberal: I de Moran: 0.12; p-value: 0.001
-  Há uma leve tendência de agrupamento espacial significativo entre áreas com valores semelhantes.
+  - Há uma leve tendência de agrupamento espacial significativo entre áreas com valores semelhantes.
 - UNIÃO - União Brasil: I de Moran: 0.17; p-value: 0.001
-  Apresenta uma tendência moderada e significativa de agrupamento espacial, mais forte do que o Partido Liberal.
+  - Apresenta uma tendência moderada e significativa de agrupamento espacial, mais forte do que o Partido Liberal.
 - PDT - Partido Democrático dos Trabalhadores: I de Moran: 0.06; p-value: 0.033
-  Há uma leve tendência de agrupamento espacial significativo, mas o padrão é extremamente fraco.
+  - Há uma leve tendência de agrupamento espacial significativo, mas o padrão é extremamente fraco.
 - PT - Partido dos Trabalhadores: I de Moran: 0.03; p-value: 0.06
-  Partido dos Trabalhadores: Não há evidências significativas de autocorrelação espacial. O padrão observado é muito fraco e não confiável.
+  - Partido dos Trabalhadores: Não há evidências significativas de autocorrelação espacial. O padrão observado é muito fraco e não confiável.
 
 ### Correlação com dados da fonte adicional
 
