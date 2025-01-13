@@ -50,7 +50,26 @@ O diagrama construído pode ser melhor visualizado acessando o arquivo `OMT-G.pd
 
 ### 3. Análises
 
-pendente...
+#### Correlação com dados socioeconômicos
+
+Para essa análise selecionamos um candidato a deputado federal pelo partido PL, André Fernandes, e outro do PT, José Nobre Guimarães. Ambos representam espectros políticos opostos e tiveram votações expressivas.
+
+Considerando as variáveis `total de votos` e `idh` por cidade, obtivemos os seguintes coeficientes de correlação de Pearson:
+-  Candidato Andre - Coeficiente de Correlação de Pearson: 0.40341885945941275
+- Candidato José - Coeficiente de Correlação de Pearson: 0.30443282422165246
+
+Os coeficientes obtidos indicam inicilamente que não há uma correlação entre as variáveis de idh e total de votos em cada cidade.  No entanto, também foram obtidos p-values extremamente próximos de sero, ou seja, tais coeficientes não são estatisticamente significativos.
+
+
+Observando os gráficos de dispersão, podemos extrair algumas outras informações interessantes:
+
+![image](https://github.com/user-attachments/assets/8798fcd6-180f-4dc9-b315-c5da0e0de41e)
+
+Nota-se que o candidato José possui uma quantidade de votos maior em cidades com IDH menor
+
+![image](https://github.com/user-attachments/assets/22b5c449-351e-4d45-ba43-e7a07a22f599)
+
+No caso do candidato André, há uma grande parcela de votos na cidade de maior IDH, Fortaleza.
 
 ### 4. Visualização
 
