@@ -73,4 +73,26 @@ No caso do candidato André, há uma grande parcela de votos na cidade de maior 
 
 ### 4. Visualização
 
-pendente...
+A parte de visualização foi feita usando o programa QGIS. Para isso, foi necessário importar os arquivos `.csv` na pasta `tabela` para o banco de dados PostgreSQL e, em seguida, conectar o banco de dados ao QGIS.
+
+Os arquivos na pasta `camadas` os dados processados em camadas para serem utilizados para visualização no programa. ALém disso os arquivos `.qgz` contém os projeto do QGIS com as camadas já carregadas.
+
+#### 4.1 Dados Gerais
+
+![image](visualizacao/populacao_idh.png)
+
+![image](visualizacao/furtos_idh.png)
+
+#### 4.2 Dados de Votação - Candidatos
+
+![image](visualizacao/jeziel.png)
+
+![image](visualizacao/DENIS.png)
+
+#### 4.3 Dados de Votação - Partidos
+
+![image](visualizacao/votos_partido.png)
+
+![image](visualizacao/partidos_populacao.png)
+
+![image](visualizacao/partidos_idh.png)
