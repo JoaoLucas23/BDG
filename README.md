@@ -54,11 +54,12 @@ O diagrama construído pode ser melhor visualizado acessando o arquivo `OMT-G.pd
 
 Para essa análise selecionamos um candidato a deputado federal pelo partido PL, André Fernandes, e outro do PT, José Nobre Guimarães. Ambos representam espectros políticos opostos e tiveram votações expressivas.
 
-Considerando as variáveis total de votos e idh por cidade, obtivemos os seguintes coeficientes de correlação de Pearson:
+Considerando as variáveis `total de votos` e `idh` por cidade, obtivemos os seguintes coeficientes de correlação de Pearson:
 -  Candidato Andre - Coeficiente de Correlação de Pearson: 0.40341885945941275
 - Candidato José - Coeficiente de Correlação de Pearson: 0.30443282422165246
 
-Os coeficeintes obtidos indicam que não há uma correlação entre as variáveis de idh e total de votos em cada cidade. 
+Os coeficientes obtidos indicam inicilamente que não há uma correlação entre as variáveis de idh e total de votos em cada cidade.  No entanto, também foram obtidos p-values acima de 0.5, ou seja, tais coeficientes não são estatisticamente significativos.
+
 
 Observando os gráficos de dispersão, podemos extrair algumas outras informações interessantes:
 
