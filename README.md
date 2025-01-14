@@ -117,7 +117,14 @@ No caso do candidato André identificamos uma alta correlação entre total de v
 
 ![image](https://github.com/user-attachments/assets/7f28f253-d57e-4e2f-8e8b-6eb2959c0a84)
 
-### Análise extra
+### Análises extra
+![image](https://github.com/user-attachments/assets/740d2ef7-3e46-4a26-9b46-fd62f3e16662)
+![image](https://github.com/user-attachments/assets/1e866793-1d78-4fd0-8869-834cb501d2ca)
+![image](https://github.com/user-attachments/assets/4c4a2efd-0b7b-4aad-9eee-f58503f9e310)
+![image](https://github.com/user-attachments/assets/029a1e51-5afd-4eab-9239-e55673fcc05c)
+![image](https://github.com/user-attachments/assets/3e5fb180-4dad-4879-b459-d45c4fba5481)
+![image](https://github.com/user-attachments/assets/1bdd86cc-dbb2-4f87-92b1-5bd9e5978b68)
+
 
 ### 4. Visualização
 
