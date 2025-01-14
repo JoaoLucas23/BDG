@@ -128,7 +128,7 @@ No caso do candidato André identificamos uma alta correlação entre total de v
 
 ### 4. Visualização
 
-A parte de visualização foi realizada utilizando o software QGIS, que permitiu transformar os dados tratados em representações geográficas e analíticas. Para isso, foi necessário importar os arquivos `.csv` na pasta `tabela` para o banco de dados PostgreSQL, o que viabilizou a organização e manipulação dos dados. Em seguida, o QGIS foi conectado ao banco de dados para facilitar o uso de camadas geográficas e temáticas.
+A parte de visualização foi realizada utilizando o software QGIS, que permitiu transforWWmar os dados tratados em representações geográficas e analíticas. Para isso, foi necessário importar os arquivos `.csv` na pasta `tabela` para o banco de dados PostgreSQL, o que viabilizou a organização e manipulação dos dados. Em seguida, o QGIS foi conectado ao banco de dados para facilitar o uso de camadas geográficas e temáticas.
 
 Os arquivos na pasta `camadas` contêm os dados processados em formato compatível para serem usados como camadas no QGIS. Esses dados foram organizados de forma a permitir a visualização de indicadores e comparações relevantes. Além disso, os arquivos `.qgz` contêm projetos do QGIS com todas as camadas já carregadas e configuradas, permitindo replicar ou ajustar as análises com facilidade.
 
