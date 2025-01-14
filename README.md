@@ -56,7 +56,7 @@ Para essa análise foram selecionados dois candidados, Jaziel Pereira de Sousa, 
 - Candidato Jaziel - I de Moran: 0.12; p-value: 0.001
 - Candidato Denis - I de Moran: 0.07; p-value: 0.072
 
-Dessa forma, para o candidato Jaziel, os dados mostram um padrão de agrupamento espacial fraco, mas significativo. Há uma leve tendência de áreas próximas compartilharem valores semelhantes, e isso pode ser explicado por fatores espaciais subjacentes. Já para o candidato Denis, Não há evidências robustas de autocorrelação espacial significativa. O padrão identificado é muito fraco e provavelmente aleatório.
+Dessa forma, para o candidato Jaziel, os dados mostram um padrão de agrupamento espacial fraco, mas significativo. Há uma leve tendência de áreas próximas compartilharem valores semelhantes, e isso pode ser explicado por fatores espaciais subjacentes. Já para o candidato Denis, não há evidências robustas de autocorrelação espacial significativa. O padrão identificado é muito fraco e provavelmente aleatório.
 
 ### Autocorrelação espacial em nível agregado
 
