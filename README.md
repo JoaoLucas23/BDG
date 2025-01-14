@@ -74,8 +74,7 @@ Considerando as variáveis `total de votos` e `idh` por cidade, obtivemos os seg
 -  Candidato Andre - Coeficiente de Correlação de Pearson: 0.40341885945941275
 - Candidato José - Coeficiente de Correlação de Pearson: 0.30443282422165246
 
-Os coeficientes obtidos indicam inicilamente que não há uma correlação entre as variáveis de idh e total de votos em cada cidade.  No entanto, também foram obtidos p-values extremamente próximos de sero, ou seja, tais coeficientes não são estatisticamente significativos.
-
+Os coeficientes obtidos indicam inicialmente que não há uma correlação entre as variáveis de idh e total de votos em cada cidade.  No entanto, também foram obtidos p-values extremamente próximos de zero, ou seja, tais coeficientes não são estatisticamente significativos.
 
 Observando os gráficos de dispersão, podemos extrair algumas outras informações interessantes:
 
@@ -105,7 +104,18 @@ Assim como nas duas primeira análise, foram calculados os valores do Índice de
 - PT - Partido dos Trabalhadores: I de Moran: 0.03; p-value: 0.06
   - Partido dos Trabalhadores: Não há evidências significativas de autocorrelação espacial. O padrão observado é muito fraco e não confiável.
 
-### Correlação com dados da fonte adicional
+### Correlação com dados da fonte adicional (furtos)
+Para essa análise selecionamos um candidato a deputado federal pelo partido PL, André Fernandes, e outro do PT, José Nobre Guimarães, novamente.
+
+Considerando as variáveis `total de votos` e `furtos` por cidade, obtivemos os seguintes coeficientes de correlação de Pearson:
+-  Candidato Andre - Coeficiente de Correlação de Pearson: 0.9964007249594194
+- Candidato José - Coeficiente de Correlação de Pearson: 0.449506490505652
+
+No caso do candidato André identificamos uma alta correlação entre total de votos e furtos por cidade. No entanto, Avaliando no caso do candidato José a correlação demonstrou-se moderada. 
+
+![image](https://github.com/user-attachments/assets/129bccef-a204-4679-bc21-e6f40f69e83d)
+
+![image](https://github.com/user-attachments/assets/7f28f253-d57e-4e2f-8e8b-6eb2959c0a84)
 
 ### Análise extra
 
